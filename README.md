@@ -474,18 +474,18 @@
 | 1 | 3 |
 | 2 | 1 |
 | 3 | 1 |
-| [4] | 1 |
+| 4 + SPECIAL | 1 |
 
 ### 2 D8 Shoot dice
 
 | Face | Frequency |
 |------|-----------|
-| Ammo | 1 |
+| AMMO | 1 |
 | 2 | 1 |
 | 3 | 1 |
 | 4 | 2 |
 | 5 | 2 |
-| Critical | 1 |
+| CRITICAL | 1 |
 
 ### 2 D10 Noise dice
 
