@@ -169,18 +169,18 @@
 
 | Room Type | Corridors | Corridors with Noise | Other Tokens | Entrance Effect |
 |-----------|-----------|----------------------|--------------|-----------------|
-| ? | ↖↗<br>↙↘ | ↖↗<br>↙↘ | Malfunction | Close all Doors around this Room. Remove this card from the game. |
-| ? | ↖↗<br>&nbsp; ↘ | &nbsp; ↗<br>&nbsp; | Malfunction, Fire | Close all Doors around this Room. Make a Noise roll. Remove this card from the game. |
-| ? | &nbsp; ↗<br>↙↘ | &nbsp; ↗<br>&nbsp; | — | Resolve Hazard. Remove this card from the game. |
-| ABC | ↗<br>→<br>↘ | ↗<br>&nbsp;<br>&nbsp; | Malfunction | Make a Noise roll. |
-| ABC | ↗<br>→ | &nbsp;<br>→ | Malfunction | Close all Doors around this Room. Make a Noise roll. |
-| ABC | ↗<br>↘ | &nbsp;<br>↘ | Fire | Make a Noise roll. |
-| ABC | →<br>↘ |  | Fire | Close all Doors around this Room. Make a Noise roll. |
-| ABC | ⟷ |  | — | Close all Doors around this Room. Resolve Hazard. |
-| ABC | ↗<br>→<br>↘ | &nbsp;<br>→<br>&nbsp; | — | Resolve Hazard. |
-| ABC | ↖ &nbsp;<br>&nbsp; →<br>&nbsp; ↘ | ↖ &nbsp;<br>&nbsp;<br>&nbsp; ↘ | — | Place 2 Adults in the Corridor you have just passed through. Then, make a Noise roll. |
-| ABC | ⟷ | → | — | Place 3 Adults in the Corridor you have just passed through. Then, make a Noise roll. |
-| ABC | &nbsp; ↗<br>&nbsp; →<br>↙ | ↗<br>&nbsp;<br>&nbsp; | — | Place 4 Adults in the Corridor you have just passed through. Then, make a Noise roll. |
+| ? | ⇖⇗<br>⇙⇘ | ⇖⇗<br>⇙⇘ | Malfunction | Close all Doors around this Room. Remove this card from the game. |
+| ? | ⇖⇗<br>&nbsp; ⇘ | &nbsp; ⇗<br>&nbsp; | Malfunction, Fire | Close all Doors around this Room. Make a Noise roll. Remove this card from the game. |
+| ? | &nbsp; ⇗<br>⇙⇘ | &nbsp; ⇗<br>&nbsp; | — | Resolve Hazard. Remove this card from the game. |
+| ABC | &nbsp; ⇗<br>&nbsp; ⇒<br>&nbsp; ⇘ | &nbsp; ⇗<br>&nbsp;<br>&nbsp; | Malfunction | Make a Noise roll. |
+| ABC | &nbsp; ⇗<br>&nbsp; ⇒ | &nbsp;<br>&nbsp; ⇒ | Malfunction | Close all Doors around this Room. Make a Noise roll. |
+| ABC | &nbsp; ⇗<br>&nbsp; ⇘ | &nbsp;<br>&nbsp; ⇘ | Fire | Make a Noise roll. |
+| ABC | &nbsp; ⇒<br>&nbsp; ⇘ |  | Fire | Close all Doors around this Room. Make a Noise roll. |
+| ABC | ⇐⇒ |  | — | Close all Doors around this Room. Resolve Hazard. |
+| ABC | &nbsp; ⇗<br>&nbsp; ⇒<br>&nbsp; ⇘ | &nbsp;<br>&nbsp; ⇒<br>&nbsp; | — | Resolve Hazard. |
+| ABC | ⇖ &nbsp; <br>&nbsp; ⇒<br>&nbsp; ⇘ | ⇖ &nbsp;<br>&nbsp;<br>&nbsp; ⇘ | — | Place 2 Adults in the Corridor you have just passed through. Then, make a Noise roll. |
+| ABC | ⇐⇒ | &nbsp; ⇒ | — | Place 3 Adults in the Corridor you have just passed through. Then, make a Noise roll. |
+| ABC | &nbsp; ⇗<br>&nbsp; ⇒<br>⇙ | &nbsp; ⇗<br>&nbsp;<br>&nbsp; | — | Place 4 Adults in the Corridor you have just passed through. Then, make a Noise roll. |
 
 ### 20 Primeblood Event cards
 
