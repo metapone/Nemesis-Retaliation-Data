@@ -241,7 +241,7 @@
 | Portable Barrier | **One Use Only**<br>**Out of Combat**<br>Close 1 accessible Door (even if destroyed or in a Corridor without the Door slot). | 2 |
 | Remote Detonator | **One Use Only, Heavy**<br>**Out of Combat**<br>Discard 1 Secure token from any Room in the same Section to deal [CRITICAL] to all Intruders in that Room. Each Character there loses 3 HP. | 3 |
 
-### 30 Yellow (Technical) Item cards
+### 30 Yellow Item cards
 
 | Title | Effect | Count |
 |-------|--------|-------|
