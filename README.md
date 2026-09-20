@@ -27,7 +27,7 @@
 |-------|-----------|--------|
 | Assault Rifle | Recon | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**Shoot**: After Shooting, you may spend Ammo token to Shoot the second time at the same Intruder. |
 | Automatic Shotgun | Combat Engineer | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**Shoot**: Before Shooting, deal 1 Hit more.<br>**[CRITICAL]**: Spend Ammo token if able. |
-| BF Gun | Heavy Gun Operator | **Ranged Weapon, Heavy**<br>2 Ammo slots.<br>**Burst:** Treat [1] as [2].<br>**[SPECIAL]**: Place a Malfunction marker on this Weapon. |
+| BF Gun | Heavy Gun Operator | **Ranged Weapon, Heavy**<br>2 Ammo slots.<br>**Burst:** Treat [1] as [2].<br>**[ADDITIONAL]**: Place a Malfunction marker on this Weapon. |
 | Bulletproof Vest | Contractor | **Armor**<br>When you would gain a Serious Wound, discard this Item instead. |
 | Carbine | Medical Support | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**Shoot**: After you don't kill the Intruder, deal 1 Hit. |
 | Handgun | Contractor | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**Burst**: -1 to Burst results. |
@@ -44,18 +44,18 @@
 | Drum Mag Rifle | **Ranged Weapon, Heavy**<br>3 Ammo slots.<br>No special rules. |
 | Engineering Equipment | **Heavy**<br>**Out of Combat**<br>Discard a Malfunction marker or a Fire marker.<br>**OR**<br>Discard this Item to Reinforce an empty, adjacent Corridor. |
 | Entrenching Tool | **Melee Weapon, Heavy**<br>Destroy 1 accessible Door.<br>**OR**<br>Place 2 Secure tokens. |
-| Flamethrower | **Ranged Weapon, Requires no Ammo, Heavy**<br>**Burst and Shoot**: If you are in a Section with an inactive Life Support System, spend 1 Oxygen to use this Weapon.<br>**[SPECIAL], [AMMO]**: Place a Fire marker in your Room. |
-| Gatling Gun | **Ranged Weapon, Heavy**<br>2 Ammo slots.<br>**Burst**: After Bursting, you may Burst the second time at the same Corridor without spending Ammo token.<br>**[SPECIAL]**: Place a Malfunction marker on this Weapon. |
+| Flamethrower | **Ranged Weapon, Requires no Ammo, Heavy**<br>**Burst and Shoot**: If you are in a Section with an inactive Life Support System, spend 1 Oxygen to use this Weapon.<br>**[ADDITIONAL], [AMMO]**: Place a Fire marker in your Room. |
+| Gatling Gun | **Ranged Weapon, Heavy**<br>2 Ammo slots.<br>**Burst**: After Bursting, you may Burst the second time at the same Corridor without spending Ammo token.<br>**[ADDITIONAL]**: Place a Malfunction marker on this Weapon. |
 | Grenade Launcher | **Ranged Weapon, Heavy**<br>1 Ammo slot, 2 Grenade slots.<br>**Burst**: You may use any number of Grenade tokens from this Weapon before or instead of a normal Burst. |
 | Hand Cannon | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**Burst**: -1 to Burst results.<br>**Shoot**: -1 to Shoot results. |
 | Heavy Armor | **Armor**<br>1 Medpack slot.<br>Whenever you would gain a Serious Wound, you may lose 2 HP instead. |
 | Noise Scanner | **Heavy**<br>**Out of Combat**<br>Discard 1 Noise marker from any Corridor in the Facility to roll a Noise die. If the result is the same as the Corridor's Noise value, draw an Intruder token from the bag and resolve it in the chosen Corridor. |
-| Perimeter Security Device | **Heavy**<br>Whenever you Discover a new Room: Ignore Hazard results (from all sources). |
-| Plasma Gun | **Ranged Weapon, Requires no Ammo, Heavy**<br>**[SPECIAL], [AMMO]**: Lose 2 HP for each Universal marker on this Weapon, and then place 1 Universal marker there. |
+| Perimeter Security Device | **Heavy**<br>Whenever you Discover a new Room: Ignore [H results (from all sources). |
+| Plasma Gun | **Ranged Weapon, Requires no Ammo, Heavy**<br>**[ADDITIONAL], [AMMO]**: Lose 2 HP for each Universal marker on this Weapon, and then place 1 Universal marker there. |
 | Portable Device | **Heavy**<br>**Out of Combat**<br>If you are in a Computer Room or a Life Support Control Room, use the Room (even with a Malfunction marker). |
 | RPG Launcher | **One Use Only, Heavy**<br>In a neighboring Room of your choice and all Corridors adjacent to that Room: Destroy all Doors, deal [CRITICAL] to all Intruders, and each Character loses 3 HP. |
-| Security System Control | **Heavy**<br>**Out of Combat**<br>Discard 1 Secure token from any Room in your Section to choose a Corridor adjacent to that Room. Roll a Burst die and deal Hits equal to the result in the chosen Corridor.<br>**[SPECIAL]**: Place a Malfunction marker on this Item. |
-| Sonic Gun | **Ranged Weapon, Requires no Ammo, Heavy**<br>**Burst**: Treat [3] and [4] as [2].<br>**[SPECIAL], [AMMO]**: Place a Malfunction marker in your Room. |
+| Security System Control | **Heavy**<br>**Out of Combat**<br>Discard 1 Secure token from any Room in your Section to choose a Corridor adjacent to that Room. Roll a Burst die and deal Hits equal to the result in the chosen Corridor.<br>**[ADDITIONAL]**: Place a Malfunction marker on this Item. |
+| Sonic Gun | **Ranged Weapon, Requires no Ammo, Heavy**<br>**Burst**: Treat [3] and [4] as [2].<br>**[ADDITIONAL], [AMMO]**: Place a Malfunction marker in your Room. |
 | Submachine Gun | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**[AMMO]**: Deal [CRITICAL]. |
 | Supporting Robot Controller | **Heavy**<br>**Out of Combat**<br>Activate the Robot anywhere in the Facility.<br>**OR**<br>Place the Robot in your Room (even if the Hibernatorium is not Discovered yet – in that case reveal the Robot card). |
 | Tactical Armor | **Armor**<br>1 Medpack slot.<br>Whenever you lose HP as a result of an Intruder Attack, lose 1 HP fewer. |
@@ -72,7 +72,7 @@
 | Combat Engineer | Explosives | **Out of Combat**<br>Discard 1 Grenade token to place a new Corridor leading from your Room to another Discovered Room.<br>**OR**<br>If you are in a room with a Yellow Item: Gain 1 Grenade token. |
 | Combat Engineer | Fast Repairs | **Out of Combat**<br>Discard a Malfunction marker.<br>**OR**<br>Open or Close 1 accessible Door. |
 | Combat Engineer | Fast Secure | **Out of Combat**<br>Place 2 Secure tokens.<br>**OR**<br>Reinforce 1 empty, adjacent Corridor that leads to a Room with a Character or the Robot. |
-| Combat Engineer | Pyrotechnics | **Out of Combat**<br>Discard a Fire marker.<br>**OR**<br>Discard 1 Grenade token to deal Critical Hit to all Intruders in an adjacent Corridor. |
+| Combat Engineer | Pyrotechnics | **Out of Combat**<br>Discard a Fire marker.<br>**OR**<br>Discard 1 Grenade token to deal [CRITICAL] to all Intruders in an adjacent Corridor. |
 | Combat Engineer | Rest | **Out of Combat**<br>Resolve the Infection Procedure. Remove all non-Infected cards from the game instead of discarding them. Infection Procedure: Scan all Contamination cards in hand. If any of them are Infected, place a Larva on your Character board. Then, discard all Contaminations from your hand. |
 | Combat Engineer | Search | **Out of Combat**<br>For each Item Icon in your Room draw 1 Item of the corresponding type. You may keep 1 of them and discard the rest. |
 | Combat Engineer | Tactical Retreat | Discard 1 Action card and spend Ammo token from your Ranged Weapon to Move through an empty Corridor. You may move another Character with you if they agree – they do not make a Noise roll. During that Movement, Prevent all Intruder Attacks. |
@@ -287,7 +287,7 @@
 |-------|--------|
 | Exploration Robot | Move the Robot up to 2 times.<br>**OR**<br>Move the Robot through an Unexplored Corridor and resolve an Exploration Sequence. Do not resolve the Entrance effect. |
 | Medical Robot | Move the Robot up to 2 times.<br>**OR**<br>A Character of your choice in a Room with the Robot discards 1 Serious Wound or restores 2 HP. |
-| Military Robot | Move the Robot once.<br>**OR**<br>Choose a Corridor adjacent to the Robot and roll a Burst die. Deal Hits equal to the result in that Corridor.<br>**Burst [SPECIAL]**: Place a Malfunction marker on the Robot. |
+| Military Robot | Move the Robot once.<br>**OR**<br>Choose a Corridor adjacent to the Robot and roll a Burst die. Deal Hits equal to the result in that Corridor.<br>**Burst [ADDITIONAL]**: Place a Malfunction marker on the Robot. |
 | Securing Robot | Move the Robot up to 3 times.<br>**OR**<br>Open or Close 1 Door accessible to the Robot.<br>**OR**<br>Place 2 Secure tokens in a Room with the Robot. |
 | Server Robot | Move the Robot up to 3 times.<br>**OR**<br>If the Robot is in a Computer Room, use the Room (even with a Malfunction marker). |
 | Technical Robot | Move the Robot up to 2 times.<br>**OR**<br>Discard a Malfunction marker or a Fire marker from the Room with the Robot. |
