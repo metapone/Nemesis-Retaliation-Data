@@ -50,7 +50,7 @@
 | Hand Cannon | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**Burst**: -1 to Burst results.<br>**Shoot**: -1 to Shoot results. |
 | Heavy Armor | **Armor**<br>1 Medpack slot.<br>Whenever you would gain a Serious Wound, you may lose 2 HP instead. |
 | Noise Scanner | **Heavy**<br>**Out of Combat**<br>Discard 1 Noise marker from any Corridor in the Facility to roll a Noise die. If the result is the same as the Corridor's Noise value, draw an Intruder token from the bag and resolve it in the chosen Corridor. |
-| Perimeter Security Device | **Heavy**<br>Whenever you Discover a new Room: Ignore [H results (from all sources). |
+| Perimeter Security Device | **Heavy**<br>Whenever you Discover a new Room: Ignore Hazard results (from all sources). |
 | Plasma Gun | **Ranged Weapon, Requires no Ammo, Heavy**<br>**[ADDITIONAL], [AMMO]**: Lose 2 HP for each Universal marker on this Weapon, and then place 1 Universal marker there. |
 | Portable Device | **Heavy**<br>**Out of Combat**<br>If you are in a Computer Room or a Life Support Control Room, use the Room (even with a Malfunction marker). |
 | RPG Launcher | **One Use Only, Heavy**<br>In a neighboring Room of your choice and all Corridors adjacent to that Room: Destroy all Doors, deal [CRITICAL] to all Intruders, and each Character loses 3 HP. |
@@ -474,18 +474,18 @@
 | 1 | 3 |
 | 2 | 1 |
 | 3 | 1 |
-| 4 + SPECIAL | 1 |
+| 4 + [ADDITIONAL] | 1 |
 
 ### 2 D8 Shoot dice
 
 | Face | Frequency |
 |------|-----------|
-| AMMO | 1 |
+| [AMMO] | 1 |
 | 2 | 1 |
 | 3 | 1 |
 | 4 | 2 |
 | 5 | 2 |
-| CRITICAL | 1 |
+| [CRITICAL] | 1 |
 
 ### 2 D10 Noise dice
 
@@ -495,7 +495,7 @@
 | 2 | 2 |
 | 3 | 2 |
 | 4 | 3 |
-| Hazard | 2 |
+| [HAZARD] | 2 |
 
 ## 1 Intruder Help Sheet
 
