@@ -1,5 +1,7 @@
 # Nemesis: Retaliation — Game Contents
 
+*Note: See [Expansion.md](Expansion.md) for expansion contents*
+
 ## Miniatures / Standees
 
 | Item | Count |
