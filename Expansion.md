@@ -1,3 +1,50 @@
+# Bioenhancement Expert
+
+## Miniatures / Standees
+
+| Item | Count |
+|------|-------|
+| Character | 1 |
+| Character standee | 1 |
+
+## Cards
+
+### 1 Character Draft card
+
+| Character | Rank |
+|-------|--------|
+| Bioenhancement Expert | 3 |
+
+### 1 Character Item card
+
+| Title | Effect |
+|-------|--------|
+| Personal Defense Weapon | **Ranged Weapon, Heavy**<br>2 Ammo slots.<br>**[ADDITIONAL]**: Deal 1 Hit instead of 4. |
+
+### 10 Action cards
+
+| Character | Title | Effect |
+|-----------|-------|--------|
+| Bioenhancement Expert | Adrenaline Boost | You may spend 1 Oxygen to draw 2 Action cards.<br>Each other Character in your Section may spend 1 Oxygen to draw 2 Action cards.<br>If they do, they gain a Connection token (if they don't have one already). |
+| Bioenhancement Expert | Chain Of Command | Move the Lander on the Round track by 1 in any direction.<br>**OR**<br>**COMMAND**: Choose a lower-ranking Character in your Room or a neighboring one. Make the chosen Character Move, Shoot, or Burst (you make all choices).<br>**Reaction**: When a command card is played on you: Ignore its effect. |
+| Bioenhancement Expert | Demolition | Destroy 1 accessible Door.<br>**OR**<br>Place a Malfunction marker in your Room. |
+| Bioenhancement Expert | Neural Connection | You may Shoot or Burst.<br>Each other Character in your Section may Shoot or Burst.<br>If they do, they gain a Connection token (if they don't have one already). |
+| Bioenhancement Expert | Repairs | **Out of Combat**<br>Discard 1 Action card to discard a Malfunction marker.<br>**OR**<br>Open or Close 1 accessible Door. |
+| Bioenhancement Expert | Rest | **Out of Combat**<br>Resolve the Infection Procedure. Remove all non-Infected cards from the game instead of discarding them. Infection Procedure: Scan all Contamination cards in hand. If any of them are Infected, place a Larva on your Character board. Then, discard all Contaminations from your hand. |
+| Bioenhancement Expert | Search | **Out of Combat**<br>For each Item Icon in your Room draw 1 Item of the corresponding type. You may keep 1 of them and discard the rest. |
+| Bioenhancement Expert | Secure | **Out of Combat**<br>Place 2 Secure tokens.<br>**OR**<br>Discard 1 Action card to Reinforce 1 empty, adjacent Corridor that leads to a Room with a Character or the Robot. |
+| Bioenhancement Expert | Slower Metabolism | You may lose 1 HP to gain 2 Oxygen.<br>Each other Character in your Section may lose 1 HP to gain 2 Oxygen.<br>If they do, they gain a Connection token (if they don't have one already). |
+| Bioenhancement Expert | Takeover | Choose a Character with a Connection token in your Section. Make the chosen Character Move, Shoot, or Burst (you make all choices).<br>**Reaction**: When any Character with a Connection token in the Facility performs an Action: Cancel that Action. That Character must still pay the Action card cost. |
+
+## Other Components
+
+| Item | Count |
+|------|-------|
+| Character tile | 1 |
+| Colored plastic ring | 1 |
+| Connection tokens | 4 |
+
+
 # Exertion
 
 ## 1 reference card
