@@ -19,6 +19,15 @@
 
 ### 6 Character Draft cards
 
+| Character | Rank |
+|-------|--------|
+| Combat Engineer | 8 |
+| Contractor: Consultant | 1 |
+| Heavy Gun Operator | 5 |
+| Medical Support | 2 |
+| Officer | 9 |
+| Recon | 7 |
+
 ### 27 Contamination cards (7 Infected, 20 Non-Infected)
 
 *Note: Although they share a common back with the Action cards, they form a separate deck.*
