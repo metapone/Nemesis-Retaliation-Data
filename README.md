@@ -68,7 +68,7 @@
 
 | Character | Title | Effect |
 |-----------|-------|--------|
-| Combat Engineer | Chain Of Command | Move the Lander on the Round track by 1 in any direction.<br>**OR**<br>**COMMAND**: Choose a lower-ranking Character in your Room or a neighboring one. Make the chosen Character Move, Shoot, or Burst.<br>**Reaction**: When a command card is played on you: Ignore its effect. |
+| Combat Engineer | Chain Of Command | Move the Lander on the Round track by 1 in any direction.<br>**OR**<br>**COMMAND**: Choose a lower-ranking Character in your Room or a neighboring one. Make the chosen Character Move, Shoot, or Burst (you make all choices).<br>**Reaction**: When a command card is played on you: Ignore its effect. |
 | Combat Engineer | Computer Skills | **Out of Combat**<br>If you are in a Computer Room, use the Room.<br>**OR**<br>If you are in a Computer Room, Open or Close 1 Door in the Facility. |
 | Combat Engineer | Demolition | Destroy 1 accessible Door.<br>**OR**<br>Place a Malfunction marker in your Room. |
 | Combat Engineer | Explosives | **Out of Combat**<br>Discard 1 Grenade token to place a new Corridor leading from your Room to another Discovered Room.<br>**OR**<br>If you are in a room with a Yellow Item: Gain 1 Grenade token. |
@@ -89,7 +89,7 @@
 | Contractor: Consultant | Move Quietly | **Out of Combat**<br>Move to a Discovered Room without making a Noise Roll. |
 | Contractor: Consultant | Weak Spot | Deal 1 Hit to an Intruder. Then, Shoot or Melee Attack it. |
 | Heavy Gun Operator | Breakthrough | **Out of Combat**<br>Burst with a Ranged Weapon. Then, Move through the Corridor where you Burst. During that Movement, Prevent all Intruder Attacks. |
-| Heavy Gun Operator | Chain Of Command | Move the Lander on the Round track by 1 in any direction.<br>**OR**<br>**COMMAND**: Choose a lower-ranking Character in your Room or a neighboring one. Make the chosen Character Move, Shoot, or Burst.<br>**Reaction**: When a command card is played on you: Ignore its effect. |
+| Heavy Gun Operator | Chain Of Command | Move the Lander on the Round track by 1 in any direction.<br>**OR**<br>**COMMAND**: Choose a lower-ranking Character in your Room or a neighboring one. Make the chosen Character Move, Shoot, or Burst (you make all choices).<br>**Reaction**: When a command card is played on you: Ignore its effect. |
 | Heavy Gun Operator | Continuous Fire | If you have Ammo token on your BF Gun, discard any number of Action cards to deal 1 Hit in an adjacent Corridor for each Action card discarded. Then, you may Burst with the BF Gun. |
 | Heavy Gun Operator | Demolition | Destroy 1 accessible Door.<br>**OR**<br>Place a Malfunction marker in your Room. |
 | Heavy Gun Operator | Fast Reload | Choose a Ranged Weapon and perform in any order:<br>- Place your Ammo token on the Weapon.<br>- Shoot or Burst. |
@@ -98,7 +98,7 @@
 | Heavy Gun Operator | Rest | **Out of Combat**<br>Resolve the Infection Procedure. Remove all non-Infected cards from the game instead of discarding them. Infection Procedure: Scan all Contamination cards in hand. If any of them are Infected, place a Larva on your Character board. Then, discard all Contaminations from your hand. |
 | Heavy Gun Operator | Search | **Out of Combat**<br>For each Item Icon in your Room draw 1 Item of the corresponding type. You may keep 1 of them and discard the rest. |
 | Heavy Gun Operator | Secure | **Out of Combat**<br>Place 2 Secure tokens.<br>**OR**<br>Discard 1 Action card to Reinforce 1 empty, adjacent Corridor that leads to a Room with a Character or the Robot. |
-| Medical Support | Chain Of Command | Move the Lander on the Round track by 1 in any direction.<br>**OR**<br>**COMMAND**: Choose a lower-ranking Character in your Room or a neighboring one. Make the chosen Character Move, Shoot, or Burst.<br>**Reaction**: When a command card is played on you: Ignore its effect. |
+| Medical Support | Chain Of Command | Move the Lander on the Round track by 1 in any direction.<br>**OR**<br>**COMMAND**: Choose a lower-ranking Character in your Room or a neighboring one. Make the chosen Character Move, Shoot, or Burst (you make all choices).<br>**Reaction**: When a command card is played on you: Ignore its effect. |
 | Medical Support | Combat Drugs | Discard 1 Medpack token to choose a Character in your Room. They draw Action cards until they have 3 Action cards in hand. |
 | Medical Support | Demolition | Destroy 1 accessible Door.<br>**OR**<br>Place a Malfunction marker in your Room. |
 | Medical Support | Field Surgery | **Out of Combat**<br>Discard 1 Action card to discard 1 Serious Wound from a Character of your choice in your Room. Discard 1 Medpack token or that Character gains 1 Contamination. |
