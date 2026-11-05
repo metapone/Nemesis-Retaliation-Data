@@ -1,3 +1,23 @@
+# Exertion
+
+## 1 reference card
+
+| Front | Back |
+|-------|------|
+| **Setup**<br>At the end of Nemesis: Retaliation game setup:<ol><li>Shuffle and place the Exertion deck nearby.</li><li>In each Character's board, place 1 Exertion marker (Universal marker) in the left-most slot of the Heavily Injured section (it may be placed on top of the Armor Item).</li><li>Flip this card to see the rules.</li></ol> | **Rules**<br>When a Character's Health marker reaches the Exertion marker for the first time, they discard the Exertion marker, draw 2 random cards from the Exertion deck, and pick 1 of them, shuffling the other one back into the Exertion deck.<br>Keep the chosen card nearby. Do not reveal either card to other Characters.<br><br>The drawn Exertion card may be revealed and used during any of that Character's Turns, as an Action (without discarding any other cards).<br>To use the card the Character must pay the described cost. The cost in Oxygen cannot be paid if it would result in the Character's Oxygen Counter going below "0".<br>After using the Exertion card, remove it from the game. |
+
+## 8 Exertion cards
+
+All cards have the following text at the top: *You may resolve this card as an Action (without discarding any additional Action card). Remove this card from the game afterward.*
+
+| Title | Effect | Count |
+|-------|--------|-------|
+| Adrenaline Rush | Spend 1 Oxygen to draw 3 Action cards. | 2 |
+| Catch a Breath | Gain 3 Oxygen. | 1 |
+| Frantic Search | Spend 1 Oxygen to draw 3 Items from 1 Item deck of your choice. You may keep 2 of them and discard the rest. | 1 |
+| Last Stand | Spend 1 Oxygen to Repel all Intruders from your Room. | 2 |
+| Oxygen Tank Explosion | Set your Oxygen to "0" to deal [CRITICAL] to all Intruders in an adjacent Corridor. | 2 |
+
 # Gamefound Stretch Goals
 
 ## Insider
