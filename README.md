@@ -513,7 +513,7 @@
 ### "The Queen is Alive" side
 
 | Procedure | Queen | Drone, Adult | Larva | Blank |
-|-----------|-------|-------|-------|-------|-------|
+|-----------|-------|-------|-------|-------|
 | Resolve Noise markers in a Corridor | Activate the Queen. If not possible - place her in the Corridor. | Place the number of Intruders shown on the token (Adults and Drones) in the Corridor. | Place 1 Larva in the Corridor. | Add 2 random Adult tokens to the bag. Add this token back to the bag. |
 | Resolve Hazard results in a Room | Activate the Queen. If not possible - place her in the Room. | Place 1 Intruder of the type shown on the token in the Room. | Place 1 Intruder of the type shown on the token in the Room. | Add 2 random Adult tokens to the bag. Add this token back to the bag. |
 | Bag Development | Activate the Queen. If not possible - add 2 Larva tokens to the bag. | Add 2 Queen tokens to the bag. | Add 2 random Drone tokens to the bag. | Add 2 random Adult tokens to the bag. Add this token back to the bag. |
@@ -521,7 +521,7 @@
 ### "The Queen is Dead" side
 
 | Procedure | Queen | Drone, Adult | Larva | Blank |
-|-----------|-------|-------|-------|-------|-------|
+|-----------|-------|-------|-------|-------|
 | Resolve Noise markers in a Corridor | Place 1 Drone in the Corridor. Remove this token from the game. | Place the number of Intruders shown on the token (Adults and Drones) in the Corridor. | Place 1 Larva in the Corridor. | Add 2 random Adult tokens to the bag. Add this token back to the bag. |
 | Resolve Hazard results in a Room | Place 1 Drone in the Room. Remove this token from the game. | Place 1 Intruder of the type shown on the token in the Room. | Place 1 Intruder of the type shown on the token in the Room. | Add 2 random Adult tokens to the bag. Add this token back to the bag. |
 | Bag Development | Add 2 random Drone tokens to the bag. Remove this token from the game. | Add 2 Larva tokens to the bag. | Add 2 random Drone tokens to the bag. | Add 2 random Adult tokens to the bag. Add this token back to the bag. |
