@@ -464,3 +464,4 @@ All cards have the following text at the top: *You may resolve this card as an A
 |------|-------|
 | Rulebook | 1 |
 
+## 1 Starting Player miniature
