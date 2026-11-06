@@ -44,7 +44,6 @@
 | Colored plastic ring | 1 |
 | Connection tokens | 4 |
 
-
 # Exertion
 
 ## 1 reference card
@@ -66,6 +65,126 @@ All cards have the following text at the top: *You may resolve this card as an A
 | Oxygen Tank Explosion | Set your Oxygen to "0" to deal [CRITICAL] to all Intruders in an adjacent Corridor. | 2 |
 
 # Gamefound Stretch Goals
+
+## Contractors
+
+### 12 Character Draft cards
+
+| Character | Rank |
+|-----------|------|
+| Contractor: Captain | 1 |
+| Contractor: Hacker | 1 |
+| Contractor: Janitor | 1 |
+| Contractor: Lab Rat | 1 |
+| Contractor: Mechanic | 1 |
+| Contractor: Pilot | 1 |
+| Contractor: Scientist | 1 |
+| Contractor: Scout | 1 |
+| Contractor: Sentry | 1 |
+| Contractor: Soldier | 1 |
+| Contractor: Survivor | 1 |
+| Contractor: Xenobiologist | 1 |
+
+### 24 Character Item cards (2 per Contractor)
+
+| Character | Title | Effect |
+|-----------|-------|--------|
+| Contractor: Captain | Captain's Old Six Shooter | **Ranged Weapon, Heavy, Max Bullets: 6**<br>Start of the game: Place 6 Universal markers on this Weapon as Bullets.<br>Spend 1 Bullet to Shoot or Burst with this Weapon.<br>**Burst**: Treat all Burst results as [1].<br>**[AMMO]**: Deal [CRITICAL] instead. |
+| Contractor: Captain | Six Shooter Cartridge | **One Use Only**<br>Add Bullets to your Old Six Shooter until there are 6. |
+| Contractor: Hacker | Cheat Codes | **One Use Only**<br>**Out of Combat**<br>Only in a Computer Room.<br><br>Use any Discovered Life Support Control Room.<br>**OR**<br>Open or Close any number of Doors in the Facility. |
+| Contractor: Hacker | Smart Gun | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**Shoot**: -2 to Shoot results.<br>**[ADDITIONAL]**, **[AMMO]**: Place a Malfunction marker on this Weapon. |
+| Contractor: Janitor | Karcher | **Heavy**<br>Place a Malfunction marker on this Item to discard a Fire marker.<br>**OR**<br>Place a Malfunction marker on this Item to Repel 1 Intruder from the Room. |
+| Contractor: Janitor | Nail Gun | **Ranged Weapon, Requires no Ammo, Heavy**<br>**Burst** and **Shoot**: Whenever you would spend Ammo token, place a Malfunction marker on this Weapon instead. |
+| Contractor: Lab Rat | Bloody Camouflage | **Armor**<br>Whenever an Intruder Attacks you as a result of entering the Room, choose another Character in that Room – the Intruder Attacks that Character instead. |
+| Contractor: Lab Rat | Lab Rat's Gun | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**Burst**: Treat [3] and [4] as [2]. |
+| Contractor: Mechanic | Mechanic's Sawed-Off | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**[AMMO]**: Deal [CRITICAL]. |
+| Contractor: Mechanic | Plasma Torch | **Heavy**<br>**Out of Combat**<br>Close 1 accessible Door (even if destroyed or in a Corridor without the Door slot). |
+| Contractor: Pilot | Orbital Maneuvering System | **One Use Only, Heavy**<br>**Out of Combat**<br>Only if there are 3 or fewer Rounds to the Lander: Choose a neighboring Room and place the Lander there. In the chosen Room, Repel each Intruder, and each Character loses 2 HP.<br>From now on, any Character may enter the Lander as if using the Landing Zone Room Action. |
+| Contractor: Pilot | Pilot's Shotgun | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**Shoot**: After Shooting, deal 1 Hit to each Intruder in the Room. |
+| Contractor: Scientist | Scientist's Pistol | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**[AMMO]**: Spend Ammo token instead of dealing [CRITICAL]. |
+| Contractor: Scientist | Wheelchair With Holo Computer | **Armor**<br>You may treat your Room as a Computer Room during your Turn. |
+| Contractor: Scout | Motion Scanner | **Heavy**<br>**Out of Combat**<br>Whenever you make a Noise roll: You may discard 1 Action card to reroll that roll. You must accept the second result. |
+| Contractor: Scout | Scout's Rifle | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**Shoot**: Before Shooting, you may spend Ammo token to deal 2 Hits more. |
+| Contractor: Sentry | NBC Suit | **Armor**<br>Whenever you Pass, gain 1 Oxygen. |
+| Contractor: Sentry | Sentry's SMG | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**Shoot**: If you kill the Intruder, draw 1 Action card. |
+| Contractor: Soldier | Old Military Armor | **Armor**<br>Whenever you are Attacked by an Intruder, you may redraw the Intruder Attack card. You must accept the new card's effect. |
+| Contractor: Soldier | Soldier's Gun | **Ranged Weapon, Heavy**<br>3 Ammo slots.<br>**Burst**: Treat [1] as [2].<br>**Shoot**: Spend Ammo token to Shoot with this Weapon.<br>**[AMMO]**: Deal [CRITICAL] instead of spending Ammo token. |
+| Contractor: Survivor | Makeshift Armor | **Armor**<br>Whenever you gain a Serious Wound, you may place a Malfunction marker on this card to lose 1 HP instead. |
+| Contractor: Survivor | Survivor's Favorite | **Ranged Weapon, Heavy**<br>2 Ammo slots.<br>**Burst**: +1 to Burst results.<br>**[ADDITIONAL]**, **[AMMO]**: Place a Malfunction marker on this Weapon. |
+| Contractor: Xenobiologist | Probe Arm | **Armor**<br>You may treat this Item as a Melee Weapon.<br>**Melee Attack**: Gain 1 Tissue (place a Universal marker on the Character board). |
+| Contractor: Xenobiologist | Xenobiologist's Gun | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**[ADDITIONAL]**: Deal 1 Hit instead of 4 and discard 1 Action card. |
+
+### 60 Action cards (5 per Contractor)
+
+| Character | Title | Effect |
+|-----------|-------|--------|
+| Contractor: Captain | Authority | Choose a Character in your Room or a neighboring one. Make the chosen Character Move, Shoot, or Burst (you make all choices). |
+| Contractor: Captain | Bash With The Barrel | Melee Attack with your Old Six Shooter. If you would be Attacked in response, Prevent the Attack without placing a Malfunction marker on the Weapon. |
+| Contractor: Captain | Fanning | Spend any number of Bullets from your Old Six Shooter. For each Bullet spent deal 1 Hit in an adjacent Corridor or to an Intruder in your Room. |
+| Contractor: Captain | Fistful Of Bullets | Place 1 Bullet on your Old Six Shooter. Discard any number of Action cards to place the same number of additional Bullets on the Old Six Shooter. |
+| Contractor: Captain | Weak Spot | Deal 1 Hit to an Intruder. Then, Shoot or Melee Attack it. |
+| Contractor: Hacker | Always Prepared | Use the Room. Then, all Intruders in your Room Attack you.<br>**OR**<br>Discard 1 Action card to draw 2 Items from 1 Item deck of your choice. You may keep 1 of them and discard the other. |
+| Contractor: Hacker | Computer Skills | **Out of Combat**<br>If you are in a Computer Room, use the Room.<br>**OR**<br>If you are in a Computer Room, Open or Close 1 Door in the Facility. |
+| Contractor: Hacker | Move Quietly | **Out of Combat**<br>Move to a Discovered Room without making a Noise roll. |
+| Contractor: Hacker | Neural Link | **Out of Combat**<br>Activate the Robot anywhere in the Facility.<br>**OR**<br>Discard a Malfunction marker from your Smart Gun. |
+| Contractor: Hacker | Override | **Out of Combat**<br>If you are in a Computer Room, flip an active / inactive Life Support System token in any Section.<br>**OR**<br>Discard a Malfunction marker from your Smart Gun. |
+| Contractor: Janitor | Clean Up | **Out of Combat**<br>Discard a Malfunction marker.<br>**OR**<br>Discard a Fire marker. |
+| Contractor: Janitor | Computer Skills | **Out of Combat**<br>If you are in a Computer Room, use the Room.<br>**OR**<br>If you are in a Computer Room, Open or Close 1 Door in the Facility. |
+| Contractor: Janitor | Duck And Cover | Discard 1 Action card to Move. During that Movement, Prevent 1 Intruder Attack.<br>**Reaction**: When you would be Attacked by an Intruder in a Room with another Character: The Intruder Attacks the other Character instead. |
+| Contractor: Janitor | It Should Work | **Out of Combat**<br>Use the Room (even with a Malfunction marker).<br>**OR**<br>Discard a Malfunction marker from an Item or the Robot. |
+| Contractor: Janitor | Jury Rigging | **Out of Combat**<br>Discard 1 Action card and 1 Yellow Item to draw 3 Support Equipments. You may keep 1 of them and discard the rest. |
+| Contractor: Lab Rat | Duck And Cover | Discard 1 Action card to Move. During that Movement, Prevent 1 Intruder Attack.<br>**Reaction**: When you would be Attacked by an Intruder in a Room with another Character: The Intruder Attacks the other Character instead. |
+| Contractor: Lab Rat | Inconspicuous | **Out of Combat**<br>**Reaction**: When you would resolve Hazard: Ignore it instead. |
+| Contractor: Lab Rat | Move Quietly | **Out of Combat**<br>Move to a Discovered Room without making a Noise roll. |
+| Contractor: Lab Rat | Sensitive Hearing | **Out of Combat**<br>Discard a Noise marker from a chosen Corridor in your Section.<br>**OR**<br>Place a Noise marker in a chosen Corridor in your Section. |
+| Contractor: Lab Rat | Weird Metabolism | **Out of Combat**<br>Discard 1 Contamination to draw 2 Action cards.<br>**OR**<br>If you are in the Nest, restore 2 HP or discard 1 Serious Wound. |
+| Contractor: Mechanic | Always Prepared | Use the Room. Then, all Intruders in your Room Attack you.<br>**OR**<br>Discard 1 Action card to draw 2 Items from 1 Item deck of your choice. You may keep 1 of them and discard the other. |
+| Contractor: Mechanic | Duck And Cover | Discard 1 Action card to Move. During that Movement, Prevent 1 Intruder Attack.<br>**Reaction**: When you would be Attacked by an Intruder in a Room with another Character: The Intruder Attacks the other Character instead. |
+| Contractor: Mechanic | Fast Repairs | **Out of Combat**<br>Discard a Malfunction marker.<br>**OR**<br>Open or Close 1 accessible Door. |
+| Contractor: Mechanic | Fight Fire With Fire | **Out of Combat**<br>Discard a Fire marker.<br>**OR**<br>Discard 1 Item or 1 Tactical Gear token to place a Fire marker. |
+| Contractor: Mechanic | Technical Corridors | **Out of Combat**<br>If you are in a Room with a Yellow Item icon: Discard 1 Action card to Move to any other Room in the Facility with a Yellow Item icon and Pass. |
+| Contractor: Pilot | Always Prepared | Use the Room. Then, all Intruders in your Room Attack you.<br>**OR**<br>Discard 1 Action card to draw 2 Items from 1 Item deck of your choice. You may keep 1 of them and discard the other. |
+| Contractor: Pilot | Computer Skills | **Out of Combat**<br>If you are in a Computer Room, use the Room.<br>**OR**<br>If you are in a Computer Room, Open or Close 1 Door in the Facility. |
+| Contractor: Pilot | Connection | **Out of Combat**<br>If you are in a Computer Room, Activate the Robot anywhere in the Facility.<br>**OR**<br>If you are in a Room with the Robot or a Computer Room, use the Room. |
+| Contractor: Pilot | Piloting | **Out of Combat**<br>If you are in the Room with the Lander or the Robot, choose an adjacent Corridor and roll a Burst die. Deal Hits equal to the result in that Corridor.<br>**OR**<br>Move the Lander on the Round track by 1 in any direction. |
+| Contractor: Pilot | Weak Spot | Deal 1 Hit to an Intruder. Then, Shoot or Melee Attack it. |
+| Contractor: Scientist | Blocking Access | **Out of Combat**<br>If you are in a Computer Room, use the Room.<br>**OR**<br>If you are in a Computer Room, place a Malfunction marker in any other Computer Room in the Facility. |
+| Contractor: Scientist | Computer Skills | **Out of Combat**<br>If you are in a Computer Room, use the Room.<br>**OR**<br>If you are in a Computer Room, Open or Close 1 Door in the Facility. |
+| Contractor: Scientist | Duck And Cover | Discard 1 Action card to Move. During that Movement, Prevent 1 Intruder Attack.<br>**Reaction**: When you would be Attacked by an Intruder in a Room with another Character: The Intruder Attacks the other Character instead. |
+| Contractor: Scientist | Intranet | **Out of Combat**<br>If you are in a Computer Room, use any other Computer Room. |
+| Contractor: Scientist | Risk Assessment | **Out of Combat**<br>If you are in a Computer Room, look at the top card of the Event deck. Then, return it to the top or bottom of the Event deck. |
+| Contractor: Scout | Adrenaline | Only in a Room with an Intruder: Draw 2 Action cards. |
+| Contractor: Scout | Move Quietly | **Out of Combat**<br>Move to a Discovered Room without making a Noise roll. |
+| Contractor: Scout | Reconnaissance | **Out of Combat**<br>Move through an Unexplored Corridor. Draw 2 Exploration cards, choose one of them and resolve an Exploration Sequence according to the chosen card. Shuffle the other card back into the deck. |
+| Contractor: Scout | Scavenging | **Out of Combat**<br>For each Item Icon in your Room draw 1 Item of the corresponding type. You may keep 2 of them and discard the rest. |
+| Contractor: Scout | Weak Spot | Deal 1 Hit to an Intruder. Then, Shoot or Melee Attack it. |
+| Contractor: Sentry | Computer Skills | **Out of Combat**<br>If you are in a Computer Room, use the Room.<br>**OR**<br>If you are in a Computer Room, Open or Close 1 Door in the Facility. |
+| Contractor: Sentry | Defense Plan | **Out of Combat**<br>Place up to 3 Secure tokens.<br>**OR**<br>Discard 1 Action card to Reinforce an empty, adjacent Corridor. |
+| Contractor: Sentry | Move Quietly | **Out of Combat**<br>Move to a Discovered Room without making a Noise roll. |
+| Contractor: Sentry | Stun | Choose a Character with 3 Action cards or fewer. They discard all Action cards and Pass.<br>**OR**<br>Place a Malfunction marker on your Weapon and gain 1 Contamination to Repel 1 Intruder from the Room. |
+| Contractor: Sentry | Weak Spot | Deal 1 Hit to an Intruder. Then, Shoot or Melee Attack it. |
+| Contractor: Soldier | Forcing Fire | Spend Ammo token from your Ranged Weapon to Repel all Intruders from the Room. |
+| Contractor: Soldier | Full Auto | Burst any number of times with the Soldier's Gun. |
+| Contractor: Soldier | Nerves Of Steel | **Reaction**: During your Turn, when you would be Attacked by an Intruder: Prevent the Attack. |
+| Contractor: Soldier | Taking Aim | Shoot or Burst. You may reroll the first roll. You must accept the second result. |
+| Contractor: Soldier | Weak Spot | Deal 1 Hit to an Intruder. Then, Shoot or Melee Attack it. |
+| Contractor: Survivor | Always Prepared | Use the Room. Then, all Intruders in your Room Attack you.<br>**OR**<br>Discard 1 Action card to draw 2 Items from 1 Item deck of your choice. You may keep 1 of them and discard the other. |
+| Contractor: Survivor | Desperate Attack | Deal 2 Hits to an Intruder and Melee Attack it. If you would be Attacked in response, you may discard 1 Item to Prevent the Attack. |
+| Contractor: Survivor | Distraction | Discard 1 Item or 1 Tactical Gear token to Move. During that Movement, Prevent all Intruder Attacks. |
+| Contractor: Survivor | Obstinate | **Out of Combat**<br>Draw 1 Action card. Draw 1 Action card more for each of your Serious Wounds.<br>**OR**<br>Discard 1 Item to discard 1 Serious Wound. |
+| Contractor: Survivor | Vents | **Out of Combat**<br>Discard 1 Action card to choose any Room in the Facility. Discard all Secure tokens from your Room and the chosen Room. Resolve an Intruder Attack (treat it as an Adult Attack) and Move to the chosen Room. |
+| Contractor: Xenobiologist | Computer Skills | **Out of Combat**<br>If you are in a Computer Room, use the Room.<br>**OR**<br>If you are in a Computer Room, Open or Close 1 Door in the Facility. |
+| Contractor: Xenobiologist | Duck And Cover | Discard 1 Action card to Move. During that Movement, Prevent 1 Intruder Attack.<br>**Reaction**: When you would be Attacked by an Intruder in a Room with another Character: The Intruder Attacks the other Character instead. |
+| Contractor: Xenobiologist | Field Experience | **Out of Combat**<br>Place 1 Tissue on your Character board.<br>**Reaction**: After an Intruder token is drawn from the bag: Discard 1 Tissue to return the Intruder token back to the bag and draw another one. |
+| Contractor: Xenobiologist | Overmind | **Out of Combat**<br>Discard 1 Action card and 1 Tissue to move 1 Intruder in your Section. |
+| Contractor: Xenobiologist | Vivisection | If you have the Probe Arm: Deal 1 Hit to an Intruder for each Tissue on your Character board. Then, Melee Attack it with the Probe Arm.<br>**OR**<br>Discard a Malfunction marker from your Probe Arm. |
+
+### Other Components
+
+| Item | Count |
+|------|-------|
+| Character tiles (double-sided) | 6 |
+| Rulesheet | 1 |
 
 ## Insider
 
@@ -139,6 +258,12 @@ All cards have the following text at the top: *You may resolve this card as an A
 | Pressure Control | 54 | There is a woman in the room, visibly shaken. Seeing you, she utters a muffled cry of joy.<br>"I am so glad to see you! Every minute was about five minutes long," she confesses. "The system held, but my life was in constant danger. I feel like I am reborn. I cannot-"<br>No doubt she is happy to see you and hopes that you will save her, but she will not stop talking, and that may bring problems down on you. | <ul><li>**Instant**: Place the Insider in your Room.</li><li>**Whenever a Character Moves from a Room with the Insider, and without any other Character**: The Insider moves with the Character (without making a Noise roll).</li><li>**Whenever a Character Passes in a Room with the Insider**: The Character makes a Noise roll.</li><li>**At the start of each Cleanup Phase**: If the Insider is in a Room with an Intruder and without any Character, remove the Insider from the game.</li><li>**Exploration**: Each Character in a Room with the Insider makes a Noise roll.</li></ul> |
 | Supply Room | 55 | You look at the monitor to see the Hibernatorium, and you realize that someone has just hidden in a capsule. The person wears an expensive suit which identifies them as a high-ranking corporate manager. | <ul><li>**Instant**: Place the Insider in the Hibernatorium and the Insider card on the Friendly side.</li><li>Action [1] (**In a Room with the Insider + Out of Combat**): Discard all your Objectives to take this card.</li></ul>If you have taken this card:<br>**NEW PRIVATE OBJECTIVE**:<br>Escape the Facility using the Lander with the Insider. The Insider gets on the Lander with you, if she is in the same Room. |
 
+### Other Components
+
+| Item | Count |
+|------|-------|
+| Rulesheet | 1 |
+
 ## Lucky Burst die
 
 ### 1 reference card
@@ -156,3 +281,186 @@ All cards have the following text at the top: *You may resolve this card as an A
 | 3 | 2 |
 | 4 | 1 |
 | 4 + [SPECIAL] | 1 |
+
+## Neoflesh Cult
+
+### Miniatures / Standees
+
+| Item | Count |
+|------|-------|
+| Motherbrain | 1 |
+| Cultists (2 poses) | 5 |
+| Ironclads | 9 |
+| Slashers | 9 |
+| Crawlmines | 9 |
+| Firespitters | 9 |
+| Twitchlings (2 poses) | 10 |
+
+### Cards
+
+#### 5 Help cards
+
+#### 12 Exploration cards
+
+| Room Type | Corridors | Corridors with Noise | Other Tokens | Cultist Placement | Entrance Effect |
+|-----------|-----------|----------------------|--------------|-------------------|-----------------|
+| ? | ⇖⇗<br>⇙⇘ | ⇖⇗<br>⇙⇘ | Malfunction | If it's a Computer Room, place 1 Cultist there. | Close all Doors around this Room. Remove this card from the game. |
+| ? | ⇖⇗<br>&nbsp; ⇘ | &nbsp; ⇗<br>&nbsp; | Malfunction, Fire |  | Close all Doors around this Room. Make a Noise roll. Remove this card from the game. |
+| ? | &nbsp; ⇗<br>⇙⇘ | &nbsp; ⇗<br>&nbsp; | — | If it's a Computer Room, place 1 Cultist there. | Resolve Hazard. Remove this card from the game. |
+| ABC | &nbsp; ⇗<br>&nbsp; ⇒<br>&nbsp; ⇘ | &nbsp; ⇗<br>&nbsp;<br>&nbsp; | Malfunction | If it's a Computer Room, place 1 Cultist there. | Make a Noise roll. |
+| ABC | &nbsp; ⇗<br>&nbsp; ⇒ | &nbsp;<br>&nbsp; ⇒ | Malfunction | If it's a Computer Room, place 1 Cultist there. | Close all Doors around this Room. Make a Noise roll. |
+| ABC | &nbsp; ⇗<br>&nbsp; ⇘ | &nbsp;<br>&nbsp; ⇘ | Fire | If it's a Computer Room, place 1 Cultist there. | Make a Noise roll. |
+| ABC | &nbsp; ⇒<br>&nbsp; ⇘ |  | Fire | If it's a Computer Room, place 1 Cultist there. | Close all Doors around this Room. Make a Noise roll. |
+| ABC | ⇐⇒ |  | — | If it's a Computer Room, place 1 Cultist there. | Close all Doors around this Room. Resolve Hazard. |
+| ABC | &nbsp; ⇗<br>&nbsp; ⇒<br>&nbsp; ⇘ | &nbsp;<br>&nbsp; ⇒<br>&nbsp; | — | If it's a Computer Room, place 1 Cultist there. | Resolve Hazard. |
+| ABC | ⇖ &nbsp; <br>&nbsp; ⇒<br>&nbsp; ⇘ | ⇖ &nbsp;<br>&nbsp;<br>&nbsp; ⇘ | — |  | Place 2 Ironclads and 1 Twitchling in the Corridor you have just passed through. Then, make a Noise roll. |
+| ABC | ⇐⇒ | &nbsp; ⇒ | — |  | Place 2 Slashers and 1 Twitchling in the Corridor you have just passed through. Then, make a Noise roll. |
+| ABC | &nbsp; ⇗<br>&nbsp; ⇒<br>⇙ | &nbsp; ⇗<br>&nbsp;<br>&nbsp; | — |  | Place 2 Firespitters and 1 Twitchling in the Corridor you have just passed through. Then, make a Noise roll. |
+
+#### 20 Event cards
+
+| Title | Intruder Movement | Primary Effect | Secondary Effect |
+|-------|-------------------|----------------|------------------|
+| Ambush | No Twitchling moves during this step. All Intruders in Corridors with Slashers move. | **If 2 Cultists or more are still alive**: If there is a Slasher and the Lander in the Landing Zone, remove the Lander from the game. Otherwise, place 1 Slasher in the Landing Zone. | Shuffle this card back to the Event deck. |
+| Artificial Fever | No Twitchling moves during this step. All Intruders in a Corridor with the Motherbrain move. Then, all Intruders in every Room move. | **If 1 Cultist or more are still alive**: Each Character in a Computer Room draws all Action cards from their deck and discard, and resolves the Infection Procedure. For each Contamination scanned, they lose 1 HP.<br>*Then, discard all cards from hand (**added by FAQ**)*. | Each Character makes a Noise roll. |
+| Autofire Protocol | No Twitchling moves during this step. All Intruders in Corridors with Slashers move. Then, all Intruders in every Room move. | **If 1 Cultist or more are still alive**: Each Character adjacent to at least 1 Corridor with a Firespitter and no Doors between loses 2 HP. | Resolve a Noise marker in each Unexplored Corridor. |
+| Cleanup Protocol | No Intruder moves. | **If 3 Cultists or more are still alive**: Move to the Landing Zone all Twitchlings that are not in a Room with a Character and are not in an Unexplored Corridor. For each Twitchling in the Landing Zone discard 1 Tactical Gear token of each type from the Landing Zone. | Resolve a Noise marker in each Unexplored Corridor. |
+| Cryosleep Chambers Explosion | No Twitchling moves during this step. All Intruders in a Corridor with the Motherbrain move. Then, all Intruders in every Room move. | Place a Fire marker and a Malfunction marker in the Hibernatorium. | **If 2 Cultists or more are still alive**: Each Character resolves Hazard. |
+| Damaging Fire | No Twitchling moves during this step. All Intruders in Corridors with Crawlmines move. Then, all Intruders in every Room move. | Place a Malfunction marker in each Room with a Fire marker. In each Room with a Fire marker, spread Fire marker through Corridors with the lowest Noise value. | **If 4 Cultists or more are still alive**: Each Character resolves Hazard. |
+| Detonation Protocol | No Twitchling moves during this step. All Intruders in Corridors with Crawlmines move. | **If 2 Cultists or more are still alive**: In each Room with a Crawlmine: Place a Malfunction marker, a Fire marker, and each Character loses 3 HP. Place all Crawlmines from that Room back in the pool. | Place a Noise marker in each Unexplored Corridor without a Noise marker. |
+| Extermination Protocol | No Twitchling moves during this step. All Intruders in Corridors with Slashers move. Then, all Intruders in every Room move. | **If 1 Cultist or more are still alive**: Place 1 Slasher in each Room with a Cultist. | Place a Noise marker in each Unexplored Corridor without a Noise marker. |
+| Facility Intrusion | No Twitchling moves during this step. All Intruders in Corridors with Firespitters move. Then, all Intruders in every Room move. | **If 1 Cultist or more are still alive**: Place 1 Twitchling in each Computer Room with a Character. | Each Character makes a Noise roll. |
+| Fire Breath | No Twitchling moves during this step. All Intruders in Corridors with Ironclads move. Then, all Intruders in every Room move. | In each Room with a Fire marker, spread Fire marker to neighboring Rooms in Sections with an active Life Support System token. | **If 4 Cultists or more are still alive**: Each Character resolves Hazard. |
+| Generators Overheat | No Twitchling moves during this step. All Intruders in Corridors with Slashers move. Then, all Intruders in every Room move. | In Sections with an active Life Support System token: Place a Fire marker in each Life Support Control Room.<br>In Sections with an inactive Life Support System token: Place a Malfunction marker in each Life Support Control Room. | **If 3 Cultists or more are still alive**: Each Character resolves Hazard. |
+| Leaving The Frame | No Intruder moves. | **If 1 Cultist or more are still alive**: Each Character infected with a Twitchling: Gains 1 Contamination, discards all Action cards, and reshuffles their deck. Then, resolves the Eclosion Procedure.<br>Each other Character in a Computer Room: Draws 4 Action cards and resolves the Infection Procedure. Then, discards all Action cards. | Reshuffle the Event deck. |
+| Life Support Failure | No Twitchling moves during this step. All Intruders in Corridors with Ironclads move. Then, all Intruders in every Room move. | Flip all active Life Support System tokens to inactive. Place a Malfunction marker in each Life Support Control Room. | **If 5 Cultists are still alive**: Each Character resolves Hazard. |
+| Long-Range Defense Protocol | No Twitchling moves during this step. All Intruders in Corridors with Firespitters move. Then, all Intruders in every Room move. | **If 3 Cultists or more are still alive**: If the Lander is on the 14th slot of the Round track, remove it from the game. Otherwise, move the Lander down the Round track by 5 (but no farther than the 14th slot). | Shuffle this card back to the Event deck. |
+| Neoflesh Conversion | No Twitchling moves during this step. All Intruders in Corridors with Firespitters move. Then, all Intruders in every Room move. | **If 3 Cultists or more are still alive**: The Robot moves up to 2 times toward the closest Character. Roll a Burst die – each Character in the Room with the Robot loses HP equal to the result. Place a Malfunction marker on the Robot. | Resolve a Noise marker in each Unexplored Corridor. |
+| Oxygen Absorption Protocol | No Twitchling moves during this step. All Intruders in Corridors with Ironclads move. Then, all Intruders in every Room move. | **If 5 Cultists are still alive**: Remove all inactive Life Support System tokens from the game. Flip all active Life Support System tokens to inactive. | Shuffle this card back to the Event deck. |
+| Part Of The Cult | No Twitchling moves during this step. All Intruders in Corridors with Firespitters move. Then, all Intruders in every Room move. | **If 1 Cultist or more are still alive**: Place a Fire marker in a Room with the Robot. Each Character in a Room with the Robot loses 2 HP. Place a Malfunction marker on the Robot. | Place a Noise marker in each Unexplored Corridor without a Noise marker. |
+| Purge Protocol | No Twitchling moves during this step. All Intruders in Corridors with Crawlmines move. Then, all Intruders in every Room move. | **If 4 Cultists or more are still alive**: Activate the Autodestruction Procedure. | Each Character makes a Noise roll. |
+| Sabotage Protocol | No Twitchling moves during this step. All Intruders in Corridors with Ironclads move. Then, all Intruders in every Room move. | **If 2 Cultists or more are still alive**: In each Section, in the highest numbered Room: discard 1 Secure token and place 1 Twitchling there. | Resolve a Noise marker in each Unexplored Corridor. |
+| System Overload | No Twitchling moves during this step. All Intruders in Corridors with Crawlmines move. Then, all Intruders in every Room move. | **If 2 Cultists or more are still alive**: Place a Fire marker in each Computer Room. Close all Doors around Rooms with both a Character and a Fire marker. | Place a Noise marker in each Unexplored Corridor without a Noise marker. |
+
+#### 20 Attack cards
+
+| Title | Effect | Count |
+|-------|--------|-------|
+| Boom! | **Crawlmine**: Each Character in your Room loses 3 HP. Place this Crawlmine back in the pool.<br>**Motherbrain, 3 Bodies Absorbed**: You die.<br>**Otherwise**: Draw and resolve another card. | 1 |
+| Boom! | **Crawlmine**: Each Character in your Room loses 3 HP. Place this Crawlmine back in the pool.<br>**Motherbrain, 2+ Bodies Absorbed**: If you are Heavily Injured, you die. If you are Injured, gain 1 Serious Wound. Otherwise, gain 2 Serious Wounds.<br>**Otherwise**: Lose 1 HP. Gain 1 Contamination. | 1 |
+| Boom! | **Crawlmine**: Each Character in your Room loses 3 HP. Place this Crawlmine back in the pool.<br>**Motherbrain, 1+ Bodies Absorbed**: If you are Heavily Injured, you die. Otherwise, gain 1 Serious Wound and 1 Contamination.<br>**Otherwise**: Lose 2 HP. | 1 |
+| Boom! | **Crawlmine**: Each Character in your Room loses 3 HP. Place this Crawlmine back in the pool.<br>**Motherbrain, 1+ Bodies Absorbed**: Lose 2 HP. Gain 1 Contamination.<br>**Otherwise**: Gain 1 Contamination. | 1 |
+| Clank! | **Ironclad**: Lose 1 HP. Discard 1 Action card or lose 2 HP more.<br>**Motherbrain, 1+ Bodies Absorbed**: Lose 2 HP.<br>**Otherwise**: Lose 1 HP. Gain 1 Contamination. | 1 |
+| Clank! | **Ironclad**: Lose 1 HP. Discard 1 Action card or lose 2 HP more.<br>**Motherbrain, 1+ Bodies Absorbed**: Lose 2 HP.<br>**Otherwise**: Gain 1 Contamination. | 1 |
+| Clank! | **Ironclad**: Lose 1 HP. Discard 1 Action card or lose 2 HP more.<br>**Motherbrain, 2+ Bodies Absorbed**: If you are Heavily Injured, you die. Otherwise, gain 1 Serious Wound and 1 Contamination.<br>**Otherwise**: Draw and resolve another card. | 1 |
+| Miss | Nothing happens. Reshuffle the Intruder Attack deck. | 1 |
+| Rat-Tat-Tat! | **Firespitter**: Lose 1 HP and move that Firespitter to an adjacent Corridor with the highest number.<br>**Motherbrain, 1+ Bodies Absorbed**: Lose 3 HP.<br>**Otherwise**: Lose 1 HP. | 1 |
+| Rat-Tat-Tat! | **Firespitter**: Lose 1 HP and move that Firespitter to an adjacent Corridor with the highest number.<br>**Motherbrain, 2+ Bodies Absorbed**: If you are Heavily Injured, you die. If you are Injured, gain 1 Serious Wound. Otherwise, gain 2 Serious Wounds.<br>**Otherwise**: Lose 1 HP. Gain 1 Contamination. | 1 |
+| Rat-Tat-Tat! | **Firespitter**: Lose 1 HP and move that Firespitter to an adjacent Corridor with the highest number.<br>**Motherbrain, 2+ Bodies Absorbed**: If you are Heavily Injured, you die. If you are Injured, gain 1 Serious Wound. Otherwise, gain 2 Serious Wounds.<br>**Otherwise**: Draw and resolve another card. | 1 |
+| Slash! | **Slasher**: If you are Heavily Injured, you die. Otherwise, gain 1 Serious Wound and 1 Contamination.<br>**Motherbrain, 3 Bodies Absorbed**: You die.<br>**Otherwise**: If you are Heavily Injured, you die. Otherwise, gain 1 Serious Wound. | 2 |
+| Slash! | **Slasher**: If you are Heavily Injured, you die. Otherwise, gain 1 Serious Wound and 1 Contamination.<br>**Motherbrain, 2+ Bodies Absorbed**: You die.<br>**Otherwise**: Draw and resolve another card. | 1 |
+| Slash! | **Slasher**: If you are Heavily Injured, you die. Otherwise, gain 1 Serious Wound and 1 Contamination.<br>**Motherbrain, 2+ Bodies Absorbed**: If you are Heavily Injured, you die. Otherwise, gain 1 Serious Wound and 1 Contamination.<br>**Otherwise**: Lose 2 HP. | 1 |
+| Slash! | **Slasher**: If you are Heavily Injured, you die. Otherwise, gain 1 Serious Wound and 1 Contamination.<br>**Motherbrain, 2+ Bodies Absorbed**: If you are Heavily Injured, you die. If you are Injured, gain 1 Serious Wound. Otherwise, gain 2 Serious Wounds.<br>**Otherwise**: If you are Heavily Injured, you die. Otherwise, gain 1 Serious Wound. | 1 |
+| Slash! | **Slasher**: If you are Heavily Injured, you die. Otherwise, gain 1 Serious Wound and 1 Contamination.<br>**Motherbrain, 1+ Bodies Absorbed**: If you are Heavily Injured, you die. Otherwise, gain 1 Serious Wound and 1 Contamination.<br>**Otherwise**: Lose 1 HP. Gain 1 Contamination. | 1 |
+| Slash! | **Slasher**: If you are Heavily Injured, you die. Otherwise, gain 1 Serious Wound and 1 Contamination.<br>**Motherbrain, 1+ Bodies Absorbed**: Lose 2 HP.<br>**Otherwise**: Gain 1 Contamination. | 1 |
+| Snatch! | **Motherbrain, 1+ Bodies Absorbed**: Lose 1 HP and 1 HP more for each Absorbed Body token. If you have 2 or fewer Serious Wounds, gain 1 Serious Wound.<br>**Otherwise**: Lose 2 HP. | 1 |
+| Snatch! | **Motherbrain, 1+ Bodies Absorbed**: Lose 1 HP and 1 HP more for each Absorbed Body token. If you have 2 or fewer Serious Wounds, gain 1 Serious Wound.<br>**Otherwise**: Lose 2 HP. Gain 1 Contamination. | 1 |
+
+#### 6 Skill cards
+
+| Number | Intruder | Skill |
+|--------|----------|-------|
+| 1 | Slasher | When a Character gains a Serious Wound/loses HP as a result of a Slasher Attack, that Slasher Attacks the second time. |
+| 2 | Crawlmine | Whenever a Crawlmine is killed in a Room, draw 3 Intruder Attacks. If at least 1 *Boom!* card is drawn, resolve 1 of them. Then, shuffle the drawn cards back into the deck. |
+| 3 | Ironclad | All Ironclads must always be the first targets in a given Room or Corridor.<br>**Ironclad in a Corridor**: Requires 2 Hits to be killed.<br>**Ironclad in a Room**: When you would kill it, Repel it instead. |
+| 4 | Firespitter | Whenever a Character would Burst at a Corridor with a Firespitter, that Character first loses 1 HP for each Firespitter there. |
+| 5 | Twitchling | Twitchlings in Rooms are dealt Hits like Adult Intruders (they do not die immediately from 1 Hit). |
+| 6 | Cultist | Whenever a Character deals any Hits/[CRITICAL] to a Cultist, that Character makes a Noise roll. |
+
+#### 12 Queen Health cards
+
+| Discard additional cards | Effect |
+|--------------------------|--------|
+| 0 | Each Character in the Room with the Queen draws 2 Action cards.<br>**Motherbrain, 2+ Bodies Absorbed**: Activate the Queen. |
+| 0 | Repel the Queen.<br>**Motherbrain, 1+ Bodies Absorbed**: Each Character in the Room with the Queen gains 1 Contamination. |
+| 0 | Repel the Queen.<br>**Motherbrain, 3 Bodies Absorbed**: Place 1 Slasher in the Room/Corridor with the Queen. |
+| 1 | Each Character in the Room with the Queen draws 2 Action cards.<br>**Motherbrain, 1+ Bodies Absorbed**: Each Character in the Room with the Queen gains 1 Contamination. |
+| 1 | Each Character in the Room with the Queen makes a Noise roll.<br>**Motherbrain, 2+ Bodies Absorbed**: Activate the Queen. |
+| 1 | Repel the Queen.<br>**Motherbrain, 3 Bodies Absorbed**: Place 2 Slashers in the Room/Corridor with the Queen. |
+| 1 | Repel the Queen.<br>**Motherbrain, 1+ Bodies Absorbed**: Place 1 Ironclad in the Room/Corridor with the Queen. |
+| 2 | Each Character in the Room with the Queen makes a Noise roll.<br>**Motherbrain, 3 Bodies Absorbed**: Place 2 Slashers in the Room/Corridor with the Queen. |
+| 2 | Repel the Queen.<br>**Motherbrain, 1+ Bodies Absorbed**: Place 1 Ironclad in the Room/Corridor with the Queen. |
+| 3 | Place a Malfunction marker in the Room with the Queen.<br>**Motherbrain, 1+ Bodies Absorbed**: Place 1 Ironclad in the Room/Corridor with the Queen. |
+| 3 | Each Character in the Room with the Queen makes a Noise roll.<br>**Motherbrain, 1+ Bodies Absorbed**: Each Character in the Room with the Queen gains 1 Contamination. |
+| 3 | Repel the Queen.<br>**Motherbrain, 2+ Bodies Absorbed**: Activate the Queen. |
+
+### Boards and Tiles
+
+| Item | Count |
+|------|-------|
+| Dead Neoflesh Cultists tile | 1 |
+| Absorbed Bodies tile | 1 |
+
+### Markers and Tokens
+
+| Item | Count |
+|------|-------|
+| Body tokens | 3 |
+
+#### 36 Intruder tokens
+
+| Type | Corridor | Count |
+|------|----------|-------|
+| Blank | - | 1 |
+| Motherbrain | 1 Motherbrain | 3 |
+| Crawlmine | 1 Crawlmine, 1 Firespitter | 1 |
+| Crawlmine | 2 Crawlmines, 1 Firespitter | 1 |
+| Crawlmine | 1 Ironclad, 2 Crawlmines | 1 |
+| Crawlmine | 1 Slasher, 2 Crawlmines | 1 |
+| Crawlmine | 1 Slasher, 1 Ironclad, 2 Crawlmines | 1 |
+| Firespitter | 1 Ironclad, 1 Firespitter | 1 |
+| Firespitter | 1 Crawlmine, 2 Firespitters | 1 |
+| Firespitter | 1 Ironclad, 2 Firespitters | 1 |
+| Firespitter | 1 Slasher, 2 Firespitters | 1 |
+| Firespitter | 1 Slasher, 1 Crawlmine, 2 Firespitters | 1 |
+| Ironclad | 1 Slasher, 1 Ironclad | 1 |
+| Ironclad | 2 Ironclads, 1 Crawlmine | 1 |
+| Ironclad | 2 Ironclads, 1 Firespitter | 1 |
+| Ironclad | 1 Slasher, 2 Ironclads | 1 |
+| Ironclad | 2 Ironclads, 1 Crawlmine, 1 Firespitter | 1 |
+| Slasher | 1 Slasher, 1 Crawlmine | 1 |
+| Slasher | 2 Slashers, 1 Crawlmine | 1 |
+| Slasher | 2 Slashers, 1 Firespitter | 1 |
+| Slasher | 2 Slashers, 1 Ironclad | 1 |
+| Slasher | 2 Slashers, 1 Ironclad, 1 Firespitter | 1 |
+| Twitchling | 1 Twitchling, 1 Crawlmine | 3 |
+| Twitchling | 1 Twitchling, 1 Firespitter | 3 |
+| Twitchling | 1 Twitchling, 1 Ironclad | 3 |
+| Twitchling | 1 Twitchling, 1 Slasher | 3 |
+
+### 1 Intruder Help Sheet (double-sided)
+
+#### "The Queen is ON the map" side
+
+| Procedure | Motherbrain | Adult (Crawlmine, Firespitter, Ironclad, Slasher) | Twitchling | Blank |
+|-----------|-------------|---------------------------------------------------|------------|-------|
+| Resolve in a Corridor | Activate the Motherbrain. Add this token back to the bag. | Place in the Corridor Intruders shown on the token. | Place in the Corridor Intruders shown on the token. | Add 2 random Adult tokens to the bag. Add this token back to the bag. |
+| Resolve in a Room | Activate the Motherbrain. Add this token back to the bag. | Place in the Room 1 Intruder of the type shown on the token. | Place in the Room 1 Intruder of the type shown on the token. | Add 2 random Adult tokens to the bag. Add this token back to the bag. |
+| Bag Development | Activate the Motherbrain. Add this token back to the bag. | Add 2 random Twitchling tokens to the bag. | Activate all Twitchlings and the Motherbrain. | Add 2 random Adult tokens to the bag. Add this token back to the bag. |
+
+#### "The Queen is OFF the map" side
+
+**Motherbrain token**: If the Motherbrain is dead – remove this token from the game, instead of resolving its effect.
+
+| Procedure | Motherbrain | Adult (Crawlmine, Firespitter, Ironclad, Slasher) | Twitchling | Blank |
+|-----------|-------------|---------------------------------------------------|------------|-------|
+| Resolve in a Corridor | Place the Motherbrain in the Corridor. Add this token back to the bag AND flip this sheet. | Place in the Corridor Intruders shown on the token. | Place in the Corridor Intruders shown on the token. | Add 2 random Adult tokens to the bag. Add this token back to the bag. |
+| Resolve in a Room | Place the Motherbrain in the Room. Add this token back to the bag AND flip this sheet. | Place in the Room 1 Intruder of the type shown on the token. | Place in the Room 1 Intruder of the type shown on the token. | Add 2 random Adult tokens to the bag. Add this token back to the bag. |
+| Bag Development | Place the Motherbrain in the highest-numbered Room. Add this token back to the bag AND flip this sheet. | Add 2 random Twitchling tokens to the bag. | Activate all Twitchlings. Place 1 Twitchling in the Hibernatorium. | Add 2 random Adult tokens to the bag. Add this token back to the bag. |
+
+### Other Components
+
+| Item | Count |
+|------|-------|
+| Rulebook | 1 |
+
