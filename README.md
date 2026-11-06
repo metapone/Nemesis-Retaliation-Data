@@ -34,15 +34,15 @@
 
 ### 7 Character Item cards
 
-| Title | Character | Effect |
-|-------|-----------|--------|
-| Assault Rifle | Recon | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**Shoot**: After Shooting, you may spend Ammo token to Shoot the second time at the same Intruder. |
-| Automatic Shotgun | Combat Engineer | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**Shoot**: Before Shooting, deal 1 Hit more.<br>**[CRITICAL]**: Spend Ammo token if able. |
-| BF Gun | Heavy Gun Operator | **Ranged Weapon, Heavy**<br>2 Ammo slots.<br>**Burst:** Treat [1] as [2].<br>**[ADDITIONAL]**: Place a Malfunction marker on this Weapon. |
-| Bulletproof Vest | Contractor | **Armor**<br>When you would gain a Serious Wound, discard this Item instead. |
-| Carbine | Medical Support | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**Shoot**: After you don't kill the Intruder, deal 1 Hit. |
-| Handgun | Contractor | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**Burst**: -1 to Burst results. |
-| Sawed-off Shotgun | Officer | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**Shoot**: Instead of a regular Shot, you may spend Ammo token to Repel 1 Adult from the Room. |
+| Character | Title | Effect |
+|-----------|-------|--------|
+| Combat Engineer | Automatic Shotgun | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**Shoot**: Before Shooting, deal 1 Hit more.<br>**[CRITICAL]**: Spend Ammo token if able. |
+| Contractor | Bulletproof Vest | **Armor**<br>When you would gain a Serious Wound, discard this Item instead. |
+| Contractor | Handgun | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**Burst**: -1 to Burst results. |
+| Heavy Gun Operator | BF Gun | **Ranged Weapon, Heavy**<br>2 Ammo slots.<br>**Burst:** Treat [1] as [2].<br>**[ADDITIONAL]**: Place a Malfunction marker on this Weapon. |
+| Medical Support | Carbine | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**Shoot**: After you don't kill the Intruder, deal 1 Hit. |
+| Officer | Sawed-off Shotgun | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**Shoot**: Instead of a regular Shot, you may spend Ammo token to Repel 1 Adult from the Room. |
+| Recon | Assault Rifle | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**Shoot**: After Shooting, you may spend Ammo token to Shoot the second time at the same Intruder. |
 
 ### 24 Support Equipment cards
 
@@ -512,19 +512,19 @@
 
 ### "The Queen is Alive" side
 
-| Procedure | Queen | Drone | Adult | Larva | Blank |
+| Procedure | Queen | Drone, Adult | Larva | Blank |
 |-----------|-------|-------|-------|-------|-------|
-| Resolve Noise markers in a Corridor | Activate the Queen. If not possible - place her in the Corridor. | Place the number of Intruders shown on the token (Adults and Drones) in the Corridor. | Place the number of Intruders shown on the token (Adults and Drones) in the Corridor. | Place 1 Larva in the Corridor. | Add 2 random Adult tokens to the bag. Add this token back to the bag. |
-| Resolve Hazard results in a Room | Activate the Queen. If not possible - place her in the Room. | Place 1 Intruder of the type shown on the token in the Room. | Place 1 Intruder of the type shown on the token in the Room. | Place 1 Intruder of the type shown on the token in the Room. | Add 2 random Adult tokens to the bag. Add this token back to the bag. |
-| Bag Development | Activate the Queen. If not possible - add 2 Larva tokens to the bag. | Add 2 Queen tokens to the bag. | Add 2 Queen tokens to the bag. | Add 2 random Drone tokens to the bag. | Add 2 random Adult tokens to the bag. Add this token back to the bag. |
+| Resolve Noise markers in a Corridor | Activate the Queen. If not possible - place her in the Corridor. | Place the number of Intruders shown on the token (Adults and Drones) in the Corridor. | Place 1 Larva in the Corridor. | Add 2 random Adult tokens to the bag. Add this token back to the bag. |
+| Resolve Hazard results in a Room | Activate the Queen. If not possible - place her in the Room. | Place 1 Intruder of the type shown on the token in the Room. | Place 1 Intruder of the type shown on the token in the Room. | Add 2 random Adult tokens to the bag. Add this token back to the bag. |
+| Bag Development | Activate the Queen. If not possible - add 2 Larva tokens to the bag. | Add 2 Queen tokens to the bag. | Add 2 random Drone tokens to the bag. | Add 2 random Adult tokens to the bag. Add this token back to the bag. |
 
 ### "The Queen is Dead" side
 
-| Procedure | Queen | Drone | Adult | Larva | Blank |
+| Procedure | Queen | Drone, Adult | Larva | Blank |
 |-----------|-------|-------|-------|-------|-------|
-| Resolve Noise markers in a Corridor | Place 1 Drone in the Corridor. Remove this token from the game. | Place the number of Intruders shown on the token (Adults and Drones) in the Corridor. | Place the number of Intruders shown on the token (Adults and Drones) in the Corridor. | Place 1 Larva in the Corridor. | Add 2 random Adult tokens to the bag. Add this token back to the bag. |
-| Resolve Hazard results in a Room | Place 1 Drone in the Room. Remove this token from the game. | Place 1 Intruder of the type shown on the token in the Room. | Place 1 Intruder of the type shown on the token in the Room. | Place 1 Intruder of the type shown on the token in the Room. | Add 2 random Adult tokens to the bag. Add this token back to the bag. |
-| Bag Development | Add 2 random Drone tokens to the bag. Remove this token from the game. | Add 2 Larva tokens to the bag. | Add 2 Larva tokens to the bag. | Add 2 random Drone tokens to the bag. | Add 2 random Adult tokens to the bag. Add this token back to the bag. |
+| Resolve Noise markers in a Corridor | Place 1 Drone in the Corridor. Remove this token from the game. | Place the number of Intruders shown on the token (Adults and Drones) in the Corridor. | Place 1 Larva in the Corridor. | Add 2 random Adult tokens to the bag. Add this token back to the bag. |
+| Resolve Hazard results in a Room | Place 1 Drone in the Room. Remove this token from the game. | Place 1 Intruder of the type shown on the token in the Room. | Place 1 Intruder of the type shown on the token in the Room. | Add 2 random Adult tokens to the bag. Add this token back to the bag. |
+| Bag Development | Add 2 random Drone tokens to the bag. Remove this token from the game. | Add 2 Larva tokens to the bag. | Add 2 random Drone tokens to the bag. | Add 2 random Adult tokens to the bag. Add this token back to the bag. |
 
 ## Other Components
 
