@@ -4,8 +4,7 @@
 
 | Item | Count |
 |------|-------|
-| Character | 1 |
-| Character standee | 1 |
+| Character (Bioenhancement Expert) | 1 |
 
 ## Cards
 
