@@ -64,7 +64,183 @@ All cards have the following text at the top: *You may resolve this card as an A
 | Last Stand | Spend 1 Oxygen to Repel all Intruders from your Room. | 2 |
 | Oxygen Tank Explosion | Set your Oxygen to "0" to deal [CRITICAL] to all Intruders in an adjacent Corridor. | 2 |
 
-# Gamefound Stretch Goals
+# Sangrevores
+
+## Miniatures / Standees
+
+| Item | Count |
+|------|-------|
+| King | 1 |
+| Blood Specters (4 poses) | 8 |
+| Ghouls (6 poses) | 36 |
+
+## Cards
+
+### 12 Sangrevore King's Health cards
+
+| Discard additional cards | Effect | Count |
+|--------------------------|--------|-------|
+| 0 | Repel the King. | 2 |
+| 0 | Each Character with a Tainted Blood draws 2 Action cards. | 1 |
+| 1 | Each Character with a Tainted Blood places 1 Shadow marker in each adjacent Corridor. | 1 |
+| 1 | Place 3 Ghouls in the Room/Corridor with the King - they do not Attack.<br>Repel the King. | 1 |
+| 1 | Each Character with a Tainted Blood places a Fire marker in their Room.<br>Place the King back in the pool. | 1 |
+| 1 | Each Character with a Tainted Blood discards 1 Action card or loses 1 HP. | 1 |
+| 2 | Repel the King.<br>Each Character with a Tainted Blood spends 1 Oxygen or loses 1 HP. | 1 |
+| 2 | Activate the King. | 1 |
+| 3 | Remove all Hits from all Ghouls and Blood Specters in the Facility. | 1 |
+| 3 | Each Character with a Tainted Blood gains 1 Infection for each Tainted Blood they have. | 1 |
+| 3 | Move the Round marker 1 space down. | 1 |
+
+### 12 Sangrevore Exploration cards
+
+| Room Type | Corridors | Corridors with Shadow markers | Other Tokens | Entrance Effect |
+|-----------|-----------|-------------------------------|--------------|-----------------|
+| ? | ⇖⇗<br>⇙⇘ | 1⇖ ⇗2<br>&nbsp; &nbsp; &nbsp; ⇘2 | Malfunction | Close all Doors around this Room. Resolve Hazard. Remove this card from the game. |
+| ? | ⇖⇗<br>&nbsp; ⇘ | 1⇖ ⇗3<br>&nbsp; &nbsp; &nbsp; ⇘1 | Malfunction, Fire | Close all Doors around this Room. Remove this card from the game. |
+| ? | &nbsp; ⇗<br>⇙⇘ | &nbsp; &nbsp; &nbsp; ⇗2<br>1⇙ ⇘1 | — | Resolve Hazard. Remove this card from the game. |
+| ABC | &nbsp; ⇗<br>&nbsp; ⇒<br>&nbsp; ⇘ | &nbsp; ⇗3<br>&nbsp; ⇒1<br>&nbsp; ⇘1 | Malfunction | Close all Doors around this Room. Resolve Hazard. |
+| ABC | &nbsp; ⇗<br>&nbsp; ⇒ | &nbsp; ⇗1<br>&nbsp; ⇒2 | Malfunction | Close all Doors around this Room. |
+| ABC | &nbsp; ⇗<br>&nbsp; ⇘ | &nbsp;<br>&nbsp; ⇘3 | Fire | Resolve Hazard. |
+| ABC | &nbsp; ⇒<br>&nbsp; ⇘ | &nbsp; ⇒2<br>&nbsp; ⇘1 | Fire | Close all Doors around this Room. |
+| ABC | ⇐⇒ | &nbsp; ⇒2 | — | Close all Doors around this Room. Resolve Hazard. |
+| ABC | &nbsp; ⇗<br>&nbsp; ⇒<br>&nbsp; ⇘ | &nbsp; ⇗2<br>&nbsp; ⇒1<br>&nbsp; ⇘2 | — | Resolve Hazard. |
+| ABC | ⇖ &nbsp; <br>&nbsp; ⇒<br>&nbsp; ⇘ | 2⇖ &nbsp;<br>&nbsp; ⇒1<br>&nbsp; ⇘2 | — | Place 2 Ghouls in the Corridor you have just passed through. |
+| ABC | ⇐⇒ | &nbsp; ⇒3 | — | Place 3 Ghouls in the Corridor you have just passed through. |
+| ABC | &nbsp; ⇗<br>&nbsp; ⇒<br>⇙ | &nbsp; ⇗2<br>&nbsp; ⇒2<br>&nbsp; | — | Place 4 Ghouls in the Corridor you have just passed through. |
+
+### 20 Sangrevore Event cards
+
+| Title | Intruder Movement | Primary Effect | Secondary Effect |
+|-------|-------------------|----------------|------------------|
+| Damaging Fire | All Intruders in each ⤢ move. Then, all Intruders in every Room move. | Place a Malfunction marker in each Room with a Fire marker. In each Room with a Fire marker, spread Fire marker through Corridors with the lowest Noise value. | Each Character in a Room without a Secure token resolves Hazard. |
+| Fire Breath | All Intruders in each ⟷ move. Then, all Intruders in every Room move. | In each Room with a Fire marker, spread Fire marker to all neighboring Rooms in Sections with an active Life Support System token. | Place 1 Ghoul in each Unexplored Corridor. |
+| Generators Overheat | All Intruders in each ⤡ move. Then, all Intruders in every Room move. | In Sections with an active Life Support System token: Place a Fire marker in each Life Support Control Room. In Sections with an inactive Life Support System token: Place a Malfunction marker in each Life Support Control Room. | Each Character in a Room without a Secure token places 1 Shadow marker in each adjacent Corridor. |
+| Headaches | All Intruders in every Room move. | The Character with the most Action cards in hand places this card on their Character board.<br>When you have this card, the "Fire a Shot/Burst" Actions cost you 1 Action card more. You may give this card to any Character in your Room at the End of the Round. | Reshuffle the Event deck. |
+| Landing Zone Explodes | All Intruders in each ⟷ move. Then, all Intruders in every Room move. | Place a Fire marker and a Malfunction marker in the Landing Zone. | Each Character in a Room without a Secure token places 1 Shadow marker in each adjacent Corridor. |
+| Life Support Failure | All Intruders in each ⤢ move. Then, all Intruders in every Room move. | Flip all active Life Support System tokens to inactive. Place a Malfunction marker in each Life Support Control Room. | Each Character in a Room without a Secure token resolves Hazard. |
+| Long Live The King | All Intruders in each ⤢ move. | If the King is alive, add all King tokens to the bag.<br>Each Character with an Infection in hand gains 1 Serious Wound. | Each Character in a Room without a Secure token gains 1 Infection. |
+| Madness & Chaos | All Intruders in each ⤢ move. Then, all Intruders in every Room move. | Place a Malfunction marker in each Room adjacent to a Corridor with at least 3 Ghouls. | In each Corridor with at least 3 Ghouls, replace 1 Ghoul with 1 Blood Specter. |
+| No Hope For The Damned | All Intruders in each ⤢ move. Then, all Intruders in every Room move. | Remove 1 Tactical Gear token of each type from the Landing Zone. | Each Character in a Room without a Secure token gains 1 Infection. |
+| Purgatory | All Intruders in each ⤡ move. | Place a Fire marker in each Room with an Intruder. | Each Character in a Room without a Secure token resolves Hazard. |
+| Reactor Overheating | All Intruders in each ⤡, ⤢, and ⟷ move. Then, all Intruders in every Room move. | If a Malfunction marker is in the Cooling System Room or the Reactor Room, Activate the Autodestruction Procedure.<br>Then, place a Malfunction marker in each of these Rooms. | Reshuffl e the Event deck. |
+| Rise Of The Machine | All Intruders in each ⤡ move. Then, all Intruders in every Room move. | Place a Malfunction marker on the Robot. Place a Malfunction marker in a Room with the Robot. Each Character in that Room loses 2 HP. | In each Corridor with at least 3 Ghouls, replace 1 Ghoul with 1 Blood Specter. |
+| Short Circuit | All Intruders in each ⤡ move. Then, all Intruders in every Room move. | In Sections with an active Life Support System token: Place a Fire marker in each Room with a Malfunction marker. | Place 1 Ghoul in each Unexplored Corridor. |
+| System Failure | All Intruders in each ⟷ move. Then, all Intruders in every Room move. | Place a Malfunction marker in each Computer Room. | Each Character in a Room without a Secure token gains 1 Infection. |
+| The Horror Arrives | All Intruders in each ⤢ move. Then, all Intruders in every Room move. | Each Injured or Heavily Injured Character gains 1 Infection. | Place 1 Ghoul in each Unexplored Corridor. |
+| The King Claims What's His | All Intruders in each ⟷ move. Then, all Intruders in every Room move. | Place 1 Ghoul in each Corridor with at least 1 Ghoul. | In each Corridor with at least 3 Ghouls, replace 1 Ghoul with 1 Blood Specter. |
+| The King Heals His Army | All Intruders in each ⟷ move. Then, all Intruders in every Room move. | Discard all Hits from all Intruders. | In each Corridor with at least 3 Ghouls, replace 1 Ghoul with 1 Blood Specter. |
+| The Shadows Awaken | All Intruders in each ⤡ move. Then, all Intruders in every Room move. | Place 4 Ghouls in the Nest - they immediately Attack if any Character is there. Place 1 Ghoul in each Corridor in Section C. | Each Character in a Room without a Secure token places 1 Shadow marker in each adjacent Corridor. |
+| Thickening Shadows | All Intruders in each ⤡ move. Then, all Intruders in every Room move. | Each Character with at least 1 Tainted Blood places 1 Shadow marker in each adjacent Corridor. | In each Corridor with at least 3 Ghouls, replace 1 Ghoul with 1 Blood Specter. |
+| Whispering Darkness | All Intruders in each ⟷ move. | Each Character with 3 Shadow markers or more in adjacent Corridors in total, gains 1 Infection. | Place 1 Ghoul in each Unexplored Corridor. |
+
+### 20 Sangrevore Attack cards
+
+| Title | Effect | Count |
+|-------|--------|-------|
+| Blood Hunger | **Ghoul**: Lose 1 HP. If you are Injured or Heavily Injured and you don't have any Serious Wounds, gain 1 Serious Wound.<br>**Specter**: If you are Heavily Injured, you die. Otherwise, gain 1 Serious Wound. Place that Blood Specter back in the pool.<br>**King**: If you are Heavily Injured, you die. Otherwise, gain 1 Serious Wound. | 3 |
+| Gift | **Ghoul**: Gain 1 Infection.<br>**Specter**: Gain 1 Tainted Blood and 1 Infection.<br>**King**: Draw 2 Tainted Blood, gain 1 of them and discard the other. Gain 2 Infections. | 1 |
+| Headgrab | **Ghoul**: Discard 1 Tainted Blood or lose 2 HP.<br>**Specter**: Discard 1 Tainted Blood or lose 2 HP.<br>**King**: If you are Heavily Injured, you die. Otherwise, gain 1 Serious Wound and 1 Infection. | 4 |
+| King's Marking | **Ghoul**: Gain 1 Infection.<br>**Specter**: Lose 2 HP.<br>**King**: Lose 2 HP and gain 1 Tainted Blood. | 4 |
+| Miss | Nothing happens. Reshuffle the Intruder Attack deck. | 1 |
+| Psybite | **Ghoul**: Lose 1 HP. Place that Ghoul back in the pool.<br>**Specter**: Gain 1 Tainted Blood and 1 Infection. Place that Blood Specter back in the pool.<br>**King**: Gain 1 Tainted Blood and 1 Infection. | 5 |
+| Whispers | **Ghoul**: Lose 1 HP. Place that Ghoul back in the pool.<br>**Specter**: Gain 1 Infection. Place that Blood Specter back in the pool.<br>**King**: Gain 2 Infections. | 2 |
+
+### 13 Shadow cards
+
+| Title | 1 Shadow marker | 2 Shadow markers | 3 Shadow markers | Additional Effect |
+|-------|----------------|-----------------|-----------------|-------------------|
+| A Terminal | Open or Close 1 chosen Door in the Facility. | Open or Close 1 chosen Door in the Facility. Place 2 Ghouls in the Corridor. | Open or Close 1 chosen Door in the Facility. Resolve Hazard. | Remove this card from the game. |
+| Adrenaline Boost | Draw 1 Action card. | Draw 1 Action card. Place 2 Ghouls in the Corridor. | Draw 1 Action card. Resolve Hazard. | Remove this card from the game. |
+| Auto-Defense | Deal 1 Hit in each adjacent Corridor. | Deal 1 Hit in each adjacent Corridor. Place 2 Ghouls in the Corridor. | Deal 1 Hit in each adjacent Corridor. Resolve Hazard. | Remove this card from the game. |
+| Fall | Discard 1 Item or lose 1 HP. | Discard 1 Item or lose 1 HP. Place 1 Ghoul in the Corridor. | Discard 1 Item or lose 1 HP. Place 2 Ghouls in the Corridor. | - |
+| Ghouls | Place 2 Ghouls in the Corridor. | Place 4 Ghouls in the Corridor. | Place 6 Ghouls in the Corridor. | - |
+| Ghouls | Place 3 Ghouls in the Corridor. | Place 4 Ghouls in the Corridor. | Place 5 Ghouls in the Corridor. | - |
+| Growth | Place 2 Ghouls in the Corridor. | Place 2 Ghouls in the Corridor. Resolve a Bag Development. | Place 4 Ghouls in the Corridor. Resolve a Bag Development. | - |
+| Invasion | Place 2 Ghouls in the Corridor. | Resolve Hazard. | Resolve Hazard. Gain 1 Infection. | Reshuffle the Shadow deck. |
+| Little Surprise | Gain 1 chosen Tactical Gear token. | Gain 1 chosen Tactical Gear token. Place 2 Ghouls in the Corridor. | Gain 1 chosen Tactical Gear token. Resolve Hazard. | Remove this card from the game. |
+| New Wave | Place 1 Ghoul in each Corridor with a Shadow marker adjacent to your Room. | Place 1 Ghoul in each Corridor with a Shadow marker in your Section. | Place 1 Ghoul in each Corridor with a Shadow marker in the Facility. | - |
+| Panic Attack | Discard 1 Action card or spend 1 Oxygen. | Discard 1 Action card or spend 1 Oxygen. Place 1 Ghoul in the Corridor. | Discard 1 Action card or spend 1 Oxygen. Place 3 Ghouls in the Corridor. | - |
+| Shadow Attack | Place 1 Ghoul in the Corridor. Lose 1 HP. | Resolve Hazard. | Gain 1 Serious Wound. Resolve Hazard. | - |
+| Strike | Resolve Hazard. | Resolve Hazard and place 1 Ghoul in the Corridor. | Resolve Hazard and place 3 Ghouls in the Corridor. | - |
+
+### 13 Sangrevore Tainted Blood cards
+
+| Title | Effect |
+|-------|--------|
+| Accursed Crowd Control | Only in a Room with no Intruder.<br>**Action (discard 1 Action card)**: Flip this card to place 1 Shadow marker in an adjacent Corridor. Then, choose up to 2 Ghouls in the Facility and place them back in the pool. |
+| Brotherhood Of Blood | Only if there is another Character in your Room.<br>**Action (discard 1 Action card)**: Flip this card to make another Character of your choice in the Room lose 1 HP.<br>You may restore 2 HP or discard 1 Serious Wound. |
+| Command In The Dark | **Action (discard 1 Action card)**: Flip this card to discard up to 2 Shadow markers from your Section. Place that many Shadow markers among any Corridors in your Section. You may not add a 4th Shadow marker in any Corridor. |
+| Dark Vision | **Action (discard 1 Action card)**: Flip this card to peek at the top Shadow card. Then, you may Move. |
+| Deepening The Stain | **Action (discard 1 Action card)**: Flip this card to deal [CRITICAL] to an Intruder in your Room and gain 1 Contamination. |
+| Familiar Scent | **Action (discard 1 Action card)**: Flip this card to Move. During that Movement, Prevent all Ghoul Attacks. |
+| Hastened Regeneration | **Action (discard 1 Action card)**: Flip this card to restore 1 HP. |
+| New Ally | **Action (discard 1 Action card)**: Flip this card to move 1 Blood Specter in your Section. |
+| Other Knowledge | **Action (discard 1 Action card)**: Flip this card to Move through an Unexplored Corridor. Draw 2 Exploration cards, choose one of them and resolve an Exploration Sequence according to the chosen card. Shuffle the other card back into the deck. |
+| Red Eyes | Only in a Room with an Intruder.<br>**Action (discard 1 Action card)**: Deal 1 Hit to each Intruder in the Room. Each other Character in your Room loses 1 HP. |
+| Right Of Passage | **Action (discard 1 Action card)**: Flip this card to Open or Close 1 Door in your Section. |
+| Superior Performance | **Action (discard 1 Action card)**: Flip this card to draw 2 Action cards. |
+| The Only Servant | **Action (discard 1 Action card)**: Flip this card to add 2 King tokens to the bag. Then, choose 1 Ghoul in an adjacent Corridor and place it back in the pool. |
+
+### 18 Infection cards
+
+| Title | Effect | Count |
+|-------|--------|-------|
+| Apocalyptic Vision | Only in the Cooling System Room: Activate the Autodestruction Procedure. Return this card to the Infection deck. | 1 |
+| Blood Sacrifice | Only in a Room with another Character: Lose 1 HP to place this card in the discard of the other Character. | 1 |
+| Bloodlust | Only in a Room with an Intruder: A Character of your choice in your Room loses 1 HP. Each Intruder in your Room is dealt 1 Hit. Return this card to the Infection deck. | 1 |
+| Breathless | Only in a Room with another Character: Spend 1 Oxygen to place this card in the discard of the other Character. | 1 |
+| Feast For The Hungry | Only in a Room with another Character: Place 2 Ghouls in each adjacent Corridor. Return this card to the Infection deck. | 2 |
+| Forced Ceasefire | Only in a Room with another Character: Spend AMMO token to place this card in the discard of the other Character. | 1 |
+| From Darkness | Choose a Character in your Section. Place 1 Shadow marker in each Corridor adjacent to that Character. Return this card to the Infection deck. | 1 |
+| Gift For A King | Only in a Room with a Blood Specter or the King: A Character of your choice loses 2 HP. Return this card to the Infection deck. | 2 |
+| Hypnotic Rule | Only in a Room with another Character: Each Character in that Room discards all Action cards, except Infections, from their hand. Return this card to the Infection deck. | 1 |
+| No Place To Hide | Only in the Hibernatorium with a Malfunction marker: Place a Fire marker and lose 1 HP. Return this card to the Infection deck. | 1 |
+| No Retreat | Only in the Landing Zone with a Malfunction marker: Place a Fire marker and lose 1 HP. Return this card to the Infection deck. | 1 |
+| Purifying Fire | Only in a Room with another Character and without a Fire marker: Place a Fire marker in your Room. Each Character in that Room discards 2 Action cards, except Infections, from their hand. Return this card to the Infection deck. | 1 |
+| Suffocation Sentence | Only in any Life Support Control Room in a Section with an active Life Support System token: Flip an active Life Support System token to inactive in your Section. Place a Malfunction marker in your Room. Return this card to the Infection deck. | 1 |
+| Terrifying Audience | A Character of your choice in your Room resolves Hazard. Return this card to the Infection deck. | 1 |
+| Unavoidable Fear | Only in a Room with at least 1 Secure token: Discard all Secure tokens and a Character of your choice in that Room discards all Action cards, except Infections, from their hand. Return this card to the Infection deck. | 1 |
+| Your King | Only in a Room with the King: A Character of your choice chooses to discard 2 Tactical Gear tokens or to lose 2 HP. Return this card to the Infection deck. | 1 |
+
+## Markers and Tokens
+
+### 33 Sangrevore tokens
+
+| Type | Corridor | Count |
+|------|----------|-------|
+| Blank | - | 1 |
+| King | - | 7 |
+| Blood Specter | - | 7 |
+| Ghoul | 2 | 5 |
+| Ghoul | 3 | 8 |
+| Ghoul | 4 | 5 |
+
+## 1 Sangrevore Help sheet
+
+### "The King is Alive" side
+
+| Procedure | King | Blood Specter | Ghoul | Blank |
+|-----------|------|---------------|-------|-------|
+| Resolve in a Corridor | Activate the King. If not possible - place him in the Corridor. | Place 1 Blood Specter in the Corridor. | Place the number of Ghouls shown on the token in the Corridor. | Add 2 random Ghoul tokens to the bag. Add this token back to the bag. |
+| Resolve in a Room | Activate the King. If not possible - place him in the Room. | Place 1 Blood Specter in the Room. | Place 1 Ghoul in the Room. | Add 2 random Ghoul tokens to the bag. Add this token back to the bag. |
+| Bag Development | Activate the King If not possible - place him in the Room with the highest number. | Activate each Blood Specter. Add 2 King tokens to the bag. | Add 2 Blood Specter tokens to the bag. | Add 2 random Ghoul tokens to the bag. Add this token back to the bag. |
+
+### "The King is Dead" side
+
+| Procedure | King | Blood Specter | Ghoul | Blank |
+|-----------|------|---------------|-------|-------|
+| Resolve in a Corridor | Place 1 Blood Specter in the Corridor. Remove this token from the game. | Place 1 Blood Specter in the Corridor. | Place the number of Ghouls shown on the token in the Corridor. | Add 2 random Ghoul tokens to the bag. Add this token back to the bag. |
+| Resolve in a Room | Place 1 Blood Specter in the Room. Remove this token from the game. | Place 1 Blood Specter in the Room. | Place 1 Ghoul in the Room. | Add 2 random Ghoul tokens to the bag. Add this token back to the bag. |
+| Bag Development | Add 2 Blood Specter tokens to the bag. Remove this token from the game. | Activate each Blood Specter. Add 2 random Ghoul tokens to the bag. | Add 2 Blood Specter tokens to the bag. | Add 2 random Ghoul tokens to the bag. Add this token back to the bag. |
+
+## Other Components
+
+| Item | Count |
+|------|-------|
+| Rulebook | 1 |
+
+# Stretch Goals
 
 ## Contractors
 
@@ -300,7 +476,7 @@ All cards have the following text at the top: *You may resolve this card as an A
 
 #### 5 Help cards
 
-#### 12 Exploration cards
+#### 12 Neoflesh Exploration cards
 
 | Room Type | Corridors | Corridors with Noise | Other Tokens | Cultist Placement | Entrance Effect |
 |-----------|-----------|----------------------|--------------|-------------------|-----------------|
@@ -317,7 +493,7 @@ All cards have the following text at the top: *You may resolve this card as an A
 | ABC | ⇐⇒ | &nbsp; ⇒ | — |  | Place 2 Slashers and 1 Twitchling in the Corridor you have just passed through. Then, make a Noise roll. |
 | ABC | &nbsp; ⇗<br>&nbsp; ⇒<br>⇙ | &nbsp; ⇗<br>&nbsp;<br>&nbsp; | — |  | Place 2 Firespitters and 1 Twitchling in the Corridor you have just passed through. Then, make a Noise roll. |
 
-#### 20 Event cards
+#### 20 Neoflesh Event cards
 
 | Title | Intruder Movement | Primary Effect | Secondary Effect |
 |-------|-------------------|----------------|------------------|
@@ -342,7 +518,7 @@ All cards have the following text at the top: *You may resolve this card as an A
 | Sabotage Protocol | No Twitchling moves during this step. All Intruders in Corridors with Ironclads move. Then, all Intruders in every Room move. | **If 2 Cultists or more are still alive**: In each Section, in the highest numbered Room: discard 1 Secure token and place 1 Twitchling there. | Resolve a Noise marker in each Unexplored Corridor. |
 | System Overload | No Twitchling moves during this step. All Intruders in Corridors with Crawlmines move. Then, all Intruders in every Room move. | **If 2 Cultists or more are still alive**: Place a Fire marker in each Computer Room. Close all Doors around Rooms with both a Character and a Fire marker. | Place a Noise marker in each Unexplored Corridor without a Noise marker. |
 
-#### 20 Attack cards
+#### 20 Neoflesh Attack cards
 
 | Title | Effect | Count |
 |-------|--------|-------|
@@ -377,7 +553,7 @@ All cards have the following text at the top: *You may resolve this card as an A
 | 5 | Twitchling | Twitchlings in Rooms are dealt Hits like Adult Intruders (they do not die immediately from 1 Hit). |
 | 6 | Cultist | Whenever a Character deals any Hits/[CRITICAL] to a Cultist, that Character makes a Noise roll. |
 
-#### 12 Queen Health cards
+#### 12 Neoflesh Queen Health cards
 
 | Discard additional cards | Effect |
 |--------------------------|--------|
@@ -438,7 +614,7 @@ All cards have the following text at the top: *You may resolve this card as an A
 | Twitchling | 1 Twitchling, 1 Ironclad | 3 |
 | Twitchling | 1 Twitchling, 1 Slasher | 3 |
 
-### 1 Intruder Help Sheet (double-sided)
+### 1 Neoflesh Help Sheet
 
 #### "The Queen is ON the map" side
 
@@ -464,4 +640,144 @@ All cards have the following text at the top: *You may resolve this card as an A
 |------|-------|
 | Rulebook | 1 |
 
-## 1 Starting Player miniature
+# Support Squad
+
+## Miniatures / Standees
+
+| Item | Count |
+|------|-------|
+| Characters (Sharpshooter, UAV Operator) | 2 |
+| UAV | 1 |
+
+## Cards
+
+### 2 Character Draft cards
+
+| Character | Rank |
+|-----------|------|
+| Sharpshooter | 6 |
+| UAV Operator | 4 |
+
+### 2 Character Item cards
+
+| Character | Title | Effect |
+|-----------|-------|--------|
+| Sharpshooter | Sniper Rifle | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**Burst**: Instead of a normal Burst, you may deal 1 Hit in an adjacent Corridor without spending Ammo tokens. |
+| UAV Operator | Smart Rifle | **Ranged Weapon, Heavy**<br>1 Ammo slot.<br>**Shoot**: If you are in a Room with the UAV you may reroll the first roll.<br>You must accept the second result. |
+
+### 20 Action cards
+
+| Character | Title | Effect |
+|-----------|-------|--------|
+| Sharpshooter | Chain Of Command | Move the Lander on the Round track by 1 in any direction.<br>**OR**<br>**COMMAND**: Choose a lower-ranking Character in your Room or a neighboring one. Make the chosen Character Move, Shoot, or Burst (you make all choices).<br>**Reaction**: When a Command card is played on you: Ignore its effect. |
+| Sharpshooter | Demolition | Destroy 1 accessible Door.<br>**OR**<br>Place a Malfunction marker in your Room. |
+| Sharpshooter | Headshot | **Out of Combat**<br>If you have a Sniper Rifle with Ammo tokens, discard 1 Action card to deal [CRITICAL] to 1 Intruder in a neighboring Room. |
+| Sharpshooter | Hold Position | **Out of Combat**<br>If there are at least 2 Secure tokens in your Room, draw 2 Action cards. |
+| Sharpshooter | One By One | As long as you have Ammo tokens in the Sniper Rifle, you may resolve this effect any number of times:<br>Deal 1 Hit in an adjacent Corridor and roll a Shoot die to check the following.<br>**[CRITICAL]** or **[AMMO]**: Spend Ammo token from the Sniper Rifle. |
+| Sharpshooter | Repairs | **Out of Combat**<br>Discard 1 Action card to discard a Malfunction marker.<br>**OR**<br>Open or Close 1 accessible Door. |
+| Sharpshooter | Rest | **Out of Combat**<br>Resolve the Infection Procedure. Remove all non-Infected cards from the game instead of discarding them.<br>*Infection Procedure: Scan all Contaminations in hand. If any of them are Infected, place a Larva on your Character board. Then, discard all Contaminations from your hand.* |
+| Sharpshooter | Search | **Out of Combat**<br>For each Item Icon in your Room draw 1 Item of the corresponding type. You may keep 1 of them and discard the rest. |
+| Sharpshooter | Secure | **Out of Combat**<br>Place 2 Secure tokens.<br>**OR**<br>Discard 1 Action card to Reinforce 1 empty, adjacent Corridor that leads to a Room with a Character or the Robot. |
+| Sharpshooter | Taking Aim | Shoot or Burst.<br>You may reroll the first roll.<br>You must accept the second result. |
+| UAV Operator | Autodestruction | Move the UAV up to 4 times.<br>**OR**<br>In a Room with the UAV and in all Corridors adjacent to that Room:<br>Destroy all Doors, deal [CRITICAL] to all Intruders and each Character there loses 3 HP.<br>Place a Malfunction marker and a Fire marker in that Room.<br>Remove the UAV from the game. |
+| UAV Operator | Chain Of Command | Move the Lander on the Round track by 1 in any direction.<br>**OR**<br>**COMMAND**: Choose a lower-ranking Character in your Room or a neighboring one. Make the chosen Character Move, Shoot, or Burst (you make all choices).<br>**Reaction**: When a Command card is played on you: Ignore its effect. |
+| UAV Operator | Defense Systems | Move the UAV up to 2 times.<br>**OR**<br>If the UAV is in a neighboring Room, Move there without making a Noise roll.<br>**Reaction**: When a Character in any Room in the Facility with the UAV would be Attacked by an Intruder: Prevent the Attack. |
+| UAV Operator | Demolition | Destroy 1 accessible Door.<br>**OR**<br>Place a Malfunction marker in your Room. |
+| UAV Operator | Exploration | Move the UAV up to 2 times.<br>**OR**<br>Move the UAV through an Unexplored Corridor and resolve an Exploration Sequence. Do not resolve the Entrance effect. |
+| UAV Operator | Pickup And Delivery | Resolve an effect based on the Room the UAV is in:<ul><li>**The Nest** – gain 1 Egg from the Nest.</li><li>**The Landing Zone** – gain 1 available Tactical Gear token from the Landing Zone.</li><li>**Otherwise** – choose 1 Item Icon in the UAV's Room and gain 1 Item of the corresponding type.</li></ul>Then, place the UAV in your Room. |
+| UAV Operator | Repairs | **Out of Combat**<br>Discard 1 Action card to discard a Malfunction marker.<br>**OR**<br>Open or Close 1 accessible Door. |
+| UAV Operator | Rest | **Out of Combat**<br>Resolve the Infection Procedure. Remove all non-Infected cards from the game instead of discarding them.<br>*Infection Procedure: Scan all Contaminations in hand. If any of them are Infected, place a Larva on your Character board. Then, discard all Contaminations from your hand.* |
+| UAV Operator | Search | **Out of Combat**<br>For each Item Icon in your Room draw 1 Item of the corresponding type. You may keep 1 of them and discard the rest. |
+| UAV Operator | Secure | **Out of Combat**<br>Place 2 Secure tokens.<br>**OR**<br>Discard 1 Action card to Reinforce 1 empty, adjacent Corridor that leads to a Room with a Character or the Robot. |
+
+## Other Components
+
+| Item | Count |
+|------|-------|
+| Plastic color rings | 2 |
+| Rulesheet | 1 |
+
+# Xyrians
+
+## Miniatures / Standees
+
+| Item | Count |
+|------|-------|
+| Xyrians | 3 |
+
+## Cards
+
+### 1 Help card
+
+### 1 Xyrian Phase card
+
+| Title | Effect |
+|-------|--------|
+| Xyrian Phase | *Resolve Xyrian Phase before drawing the Event card.*<br>**If any Xyrian is on the map:**<br>Resolve 1 Xyrian Activation.<br>Add the Xyrian token to the bag.<br>If there is more than 1 Xyrian in any Room, replace the least injured one with a Trace token. |
+
+### 3 Xyrian Exploration cards
+
+| Title | Effect | Count |
+|-------|--------|-------|
+| Something's Following Me | Place 1 Trace token in the Room you are Moving from.<br>Add the Xyrian token to the bag.<br>Remove this card from the game and resolve the next Exploration. | 2 |
+| Something's Out There | Add the Xyrian token to the bag.<br>After resolving this Exploration, place 1 Xyrian and the Available Allegiance token in the Room you are Moving to.<br>Remove this card from the game and resolve the next Exploration. | 1 |
+
+### 3 Xyrian Event cards
+
+| Title | When Drawn | Effect |
+|-------|------------|--------|
+| New Commands | If there are 2 or fewer Xyrians in the Facility, place 1 in the Hibernatorium.<br>If it's Round 5 or earlier, place this card near the Mission Task – both Mission Tasks must be fulfilled by players who choose the Official Order Objective.<br>Resolve another Event. | **Mission Task**<br>At least 1 Character with a Xyrian Item must Escape from the Facility. |
+| Queen Tracking | *Place 1 Trace token in the Hibernatorium.<br>Place the "Queen Tracking" part of this card under the Xyrian Phase card. When resolving Xyrian Phase, resolve Queen Tracking as well.<br>Resolve another Event.* | **Xyrian Phase**<br>**If the Queen is on the map:**<br>Each Xyrian moves toward the Queen.<br>Then, the Queen is dealt [CRITICAL] for each Xyrian in her Room or adjacent to her Corridor.<br>Xyrians in a Room with the Queen are dealt [CRITICAL]. |
+| Servant Hunt | *Place 1 Trace token in the Hibernatorium.<br>Place the "Servant Hunt" part of this card under the Xyrian Phase card. When resolving Xyrian Phase, resolve Servant Hunt as well.<br>Resolve another Event.* | **Xyrian Phase**<br>Each Xyrian moves 2 times toward the Character with the Allegiance card. |
+
+### 10 Xyrian Activation cards
+
+| Xyrians in Rooms with Characters | Other Xyrians |
+|----------------------------------|---------------|
+| Place a Noise marker in each adjacent Corridor.<br>Each Character infected with a Larva and with a Xyrian in their Room, discards the Larva and loses 2 HP. | If the Nest has been Discovered, Xyrians move 3 times toward it. Then, if any Xyrian is in the Nest, remove 2 Eggs from it.<br>Each Intruder in a Room with a Xyrian is dealt [CRITICAL].<br>Reshuffle this deck. |
+| Each Xyrian in a Section with an active Life Support System token attacks in their Room:<ul><li>Each Character gains 1 Status if able. Otherwise, they gain 1 Serious Wound.</li><li>Each Intruder is dealt [CRITICAL].</li></ul> | Xyrians move 2 times toward the Landing Zone.<br>If a Xyrian and the Lander are in the Landing Zone, remove the Lander and this card from the game. Otherwise, move the Lander up on the Round track by 1 for each Xyrian in the Landing Zone.<br>Shuffle this card back into the Activation deck. |
+| Each Xyrian in a Section with an active Life Support System token attacks in their Room:<ul><li>Each Character gains 1 Status if able. Otherwise, they gain 1 Serious Wound.</li><li>Each Intruder is dealt [CRITICAL].</li></ul> | If the Queen is on the map, Xyrians move 2 times toward the Queen. Otherwise, they move 2 times toward the closest Character.<br>Each Xyrian attacks in their Room:<ul><li>Each Character gains 1 Status if able. Otherwise, they lose 2 HP.</li><li>The Queen is dealt [CRITICAL].</li></ul>If the Queen is in a Corridor, she is dealt [CRITICAL] for each Xyrian in Rooms adjacent to her. |
+| Each Xyrian in a Section with an active Life Support System token attacks in their Room:<ul><li>Each Character gains 1 Status if able. Otherwise, they gain 1 Serious Wound.</li><li>Each Intruder is dealt [CRITICAL].</li></ul> | Xyrians move 2 times toward the Landing Zone. Place a Fire marker in the last Room each Xyrian entered.<br>If any Xyrian is in the Landing Zone, discard all Tactical Gear tokens from there.<br>Each Intruder in a Room with a Xyrian is dealt [CRITICAL]. |
+| Each Xyrian attacks in their Room:<ul><li>Each Character gains 1 Status if able. Otherwise, they gain 1 Serious Wound.</li><li>Each Intruder is dealt [CRITICAL].</li></ul> | Place a Malfunction marker in each Room with a Xyrian. If the Robot is in any of those Rooms, place a Malfunction marker on it as well.<br>Xyrians move toward the closest Character.<br>If any Xyrian is in the Cooling System Room, Activate the Autodestruction Procedure. |
+| Each Xyrian moves through a Corridor with the lowest number, taking all Characters with them (without resolving Opportunity Attacks). These Characters make Noise rolls as normal. Destroy all Doors in the Corridors Xyrians move through. | Each Xyrian in a Room with an Intruder is dealt [CRITICAL].<br>Xyrians move toward the closest Character.<br>Each Xyrian attacks in their Room:<ul><li>Each Character gains 1 Status if able. Otherwise, they lose 2 HP.</li><li>Each Intruder is dealt [CRITICAL].</li></ul> |
+| Each Xyrian attacks in their Room:<ul><li>Each Character gains 1 Status if able. Otherwise, they gain 1 Serious Wound.</li><li>Each Intruder is dealt [CRITICAL].</li></ul> | If any Xyrian is in the Escape Shuttle Room, place that Xyrian in the Escape Shuttle slot.<br>Xyrians move toward the closest Character.<br>Each Xyrian attacks in their Room:<ul><li>Each Character gains 1 Status if able. Otherwise, they lose 2 HP.</li><li>Each Intruder is dealt [CRITICAL].</li></ul> |
+| Each Xyrian attacks in their Room:<ul><li>Each Character loses 2 HP.</li><li>Each Intruder is dealt [CRITICAL].</li></ul> | Xyrians move toward the closest Character.<br>Each Intruder in a Room with a Xyrian is dealt [CRITICAL].<br>Each Xyrian in a Room with the Queen is dealt [CRITICAL]. |
+| Each Xyrian attacks in their Room:<ul><li>Each Character loses 2 HP.</li><li>Each Intruder is dealt [CRITICAL].</li></ul> | If any Xyrian is in any Life Support Control Room, flip the Life Support System token in that Section to the other side.<br>If any Xyrian is in the Hibernatorium and no Character has hibernated yet, flip the active Hibernatorium token to inactive. Otherwise, if the Hibernatorium has been Discovered, Xyrians move 2 times toward it. Place 1 Malfunction marker in each Room they enter. |
+| If the Technical Corridor Entrance is Discovered: Xyrians and all Characters in their Rooms are placed in the Technical Corridor Entrance (without making a Noise roll). | Xyrians move toward the closest Character.<br>Each Xyrian attacks in their Room:<ul><li>Each Character loses 2 HP.</li><li>Each Intruder is dealt [CRITICAL].</li></ul>Discard all Secure tokens in Rooms with Xyrians and all neighboring Rooms. |
+
+### 3 Xyrian Status cards
+
+| Title | Effect |
+|-------|--------|
+| Entangled | *Place this card near your Character board.*<br>You cannot Move or be Moved in any way.<br>**To discard the Entangled Status:**<br>As an Action, discard 2 Action cards and lose 2 HP.<br>**OR**<br>Play a Demolition card (do not resolve the standard effect of that card). |
+| Envenomed | *Place this card near your Character board.*<br>**Whenever you Pass:** Lose 1 HP and 1 Oxygen.<br>When you restore at least 1 HP you may also discard the Envenomed Status. |
+| Marked | *Place this card near your Character board.*<br>**Whenever you Pass:** All Xyrians move 2 times toward you.<br>Use the Surgery Room to discard the Marked Status instead of resolving the standard effect of the Surgery Room. |
+
+### 3 Xyrian Item cards
+
+| Title | Effect |
+|-------|--------|
+| Combat Tech | **Armor**<br>*When you gain this Item, discard 1 Serious Wound and restore 3 HP.*<br>After you are Attacked by an Intruder: If you are not dead, deal [CRITICAL] to the Attacking Intruder. |
+| Life Support Tech | **Armor**<br>*When you gain this Item, discard 1 Serious Wound and restore 3 HP.*<br>Whenever you Pass: Gain 7 Oxygen.<br>You never lose HP as a result of a Fire marker at the End of your Turn. |
+| Stealth Tech | **Armor**<br>*When you gain this Item, discard 1 Serious Wound and restore 3 HP.*<br>Whenever you make a Noise roll, ignore all results except for [HAZARD]. |
+
+### 1 Allegiance card (double-sided)
+
+| Available Allegiance | Gained Allegiance |
+|----------------------|-------------------|
+| Any Character in a Room with an Available Allegiance token may perform the following Action:<br>Discard the Available Allegiance token and 1 Action card to gain this card. | You cannot use your Weapons against Xyrians.<br>When resolving the "OTHER XYRIANS" part of Xyrian Activations, Xyrians ignore you.<br>When in a Room with a Xyrian, you may perform the following Action:<br>Discard 1 Action card and 1 Item to resolve 1 Xyrian Activation. Xyrians ignore you completely during this Activation. |
+
+## Markers and Tokens
+
+| Item | Count |
+|------|-------|
+| Trace tokens | 3 |
+| Xyrian token | 1 |
+| Available Allegiance token | 1 |
+| Injury tokens (Injured Xyrian / Xyrian Item) | 3 |
+
+## Other Components
+
+| Item | Count |
+|------|-------|
+| Rulebook | 1 |
