@@ -464,8 +464,8 @@
 
 ### 40 Intruder tokens
 
-| Type | Number | Count |
-|------|--------|-------|
+| Type | Corridor | Count |
+|------|----------|-------|
 | Blank | - | 1 |
 | Queen | - | 9 |
 | Drone | 1A + 1 | 2 |
